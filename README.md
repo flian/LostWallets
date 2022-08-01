@@ -29,7 +29,8 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 :four: - bc1q5k000jhfklq8k82lpf8fz9cwffj4murvt7kxpm</br>
 :five: - bc1qgdgr02whvzkzqcqhpstqepq8sjcc4ljgyfnka9</br>
 :six: - 13npiGYMZVqYiRJ9Xr2vTu8NAmzCQ1iCGv</br>
-:seven: - 1BGYYSyPbs4YFDDudAVAULpNdkJQbYQpaS
+:seven: - 1BGYYSyPbs4YFDDudAVAULpNdkJQbYQpaS</br>
+:eight: - 1LcFtZjX3U8EX7pgYiawphmzyM9SYrq5z5
 
 :warning: - Suspicious (there are duplicate hashes)
 
