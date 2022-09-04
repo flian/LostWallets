@@ -38,7 +38,6 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 |   |  Wallet name    | Address   | Your reward  |  | Partner | Update |
 |:--|:----------------|:----------|:-------------|:-|:--------|:-------|
 | 1 | 10000.00417651.dat | [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50% | :lock: | 3 | 09.06.2022 |
-| 2 | 5000.01168565.dat | [18xGHNrU26w6HSCEL8DD5o1whfiDaYgp6i](https://www.blockchain.com/btc/address/18xGHNrU26w6HSCEL8DD5o1whfiDaYgp6i) | 50% | :lock: | 1 | 09.06.2022 |
 | 3 | 4000.dat | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50% | :lock: | 2 | 09.06.2022 |
 | 4 | 4000.00222015.dat | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50% | :lock: | 2 | 03.06.2022 |
 | 5 | 478.33.dat | [11.10](https://www.blockchain.com/btc/address/1QBMmD24baHgusrqUSXc9s1uALtHeuJsjK) + [203.50](https://www.blockchain.com/btc/address/1NUnbngzRB2SeMqZLrLrypoYW5FrusVU3X) + [76.70](https://www.blockchain.com/btc/address/1JXvzLcpxh3LBvEi1NKE6qAVpft6khkpWN) + [103.78](https://www.blockchain.com/btc/address/1A6R1sEkzpkNPx5hdJHjmN3947qYXFxuHz) + [83.25](https://www.blockchain.com/btc/address/187oyQbBSRx8azGY8EC3V9oTsm6bTD45Zb) | 50% | :lock: | 1 | 09.06.2022 |
@@ -229,7 +228,6 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 |  | Name  | Wallet password hash |
 |:---|:---|:----------------------------------------------------------------------------------------|
 | 1 | 10000.00417651.dat | $bitcoin$64$f0ef639cd01bb26805c190e0aeba006fbdd6b817e0b6634b0fb11944bc0f19eb$16$d2542bb38e0ee061$76753$2$00$2$00 |
-| 2 | 5000.01168565.dat | $bitcoin$64$ad50c8d3435f8f711f384090a3df9112e0b84a0c97f727b3bbbdc28865d8d7b3$16$f193886b9f6d9853$37480$2$00$2$00 |
 | 3 | 4000.dat | $bitcoin$64$ff4eb1d017921e0c7023da7e17aa72bd5f11f9025c844865665932125f79f465$16$6b8207637fc796a0$37698$2$00$2$00 |
 | 4 | 4000.00222015.dat | $bitcoin$64$71e2e716521853a705f989b6095792e134a65d3c7dba4a2ef9e4b7b2a1b3b5c9$16$ad323db3a8d1a222$92592$2$00$2$00 |
 | 5 | 478.33.dat | $bitcoin$64$2cc2bb488dc29fdfad85772b78bf96b29b054cd09a8a80311ebf6f7f821a8a63$16$c2ad95b0204070eb$67888$2$00$2$00 |
