@@ -427,13 +427,6 @@ This can only be done if the correct password is entered.<hr>
 Jacks were presented to me by various hunters for 25% of the amount of the find.</br>
 Hunters received wallet.dat by exchanging with other hunters.<hr>
 
-**Any passwords hints?**</br>
-
-Maybe it's an email ?</br>
-Possibly 12 capital letters ?</br>
-Possibly word + word + 2011 ?</br>
-They are not exact, come up with your own combinations<hr>
-
 **If I find. What are the guarantees of paying me 50% ?**</br>
 
 If you find the hash password.</br>
