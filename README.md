@@ -103,7 +103,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 78.65929782.dat | [1Pq2Y45aDfwGn6pKFGv8enKgNR2efw4jFW](https://www.blockchain.com/btc/address/1Pq2Y45aDfwGn6pKFGv8enKgNR2efw4jFW) | 50% | :lock: | :three: | 09.06.2022 |
 | 78.60361094.dat | [1BSmyTdYpsHA5JhLS9azGmVADuJRiLWE5Z](https://www.blockchain.com/btc/address/1BSmyTdYpsHA5JhLS9azGmVADuJRiLWE5Z) | 50% | :lock: | :one: | 09.06.2022 |
 | 77.98600547.dat | [14tZU9KyHXwkGXkVUKehkMfaEZ8ad7jwNc](https://www.blockchain.com/btc/address/14tZU9KyHXwkGXkVUKehkMfaEZ8ad7jwNc) | 50% | :lock: | :one: | 09.06.2022 |
-| 76.85957756.dat | [1Eub69pJHFr3GoBfDiGQvxrDEPmL3gMmMT + 3](https://www.blockchain.com/btc/address/1Eub69pJHFr3GoBfDiGQvxrDEPmL3gMmMT) | 50% | :lock: | :nine: | 30.08.2022 |
+| 76.85957756.dat | [1Eub69pJHFr3GoBfDiGQvxrDEPmL3gMmMT](https://www.blockchain.com/btc/address/1Eub69pJHFr3GoBfDiGQvxrDEPmL3gMmMT) +23 | 50% | :lock: | :nine: | 30.08.2022 |
 | 75.25000000.dat | [25](https://www.blockchain.com/btc/address/1NVa46rWpm6j33fDvvcfJ1GEzJKh9MP7RX) + [25](https://www.blockchain.com/btc/address/18NxttmXTJfifBJCeJnJYTVvTniR5hZRBB) + [25](https://www.blockchain.com/btc/address/19C1pbZioNsmzUCHRic66NRum9RkqQF3P6)| 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 75.00011094.dat | [1Afh86YLq9tZWGsQhmDvCoGE2QhwYXxmcY](https://www.blockchain.com/btc/address/1Afh86YLq9tZWGsQhmDvCoGE2QhwYXxmcY) + [25](https://www.blockchain.com/btc/address/12BycRrxPivnhnwfD5qfKaE7ccAc1qhrCb) | 50% | :lock: | :six: | 24.06.2022 |
 | 74.16883731.dat | [1F11GQNQKTEme6L74c5dVTTMkD7ME2jiqP](https://www.blockchain.com/btc/address/1F11GQNQKTEme6L74c5dVTTMkD7ME2jiqP) | 50% | :lock: | :one: | 09.06.2022 |
