@@ -6,7 +6,7 @@
 ## How to search for a password
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
 An example of using masks in hashcat is [**here**](https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/)</br>
-The hashes of the passwords from all wallets is in the file [**hash.txt**](https://github.com/phrutis/LostWallets/blob/main/hash.txt) Update **11.06.2022**</br>
+The hashes of the passwords [**here**](https://github.com/phrutis/LostWallets/blob/main/README.md#heshes-table)</br>
 
 ## Example of starting a search
 TEST: ```hashcat.exe -m 11300 -a 3 test.txt foot?l?l?l?l -D 2 -w 3 -o FOUND.txt```</br>
