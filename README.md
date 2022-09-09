@@ -108,13 +108,20 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 75.00011094.dat | [1Afh86YLq9tZWGsQhmDvCoGE2QhwYXxmcY](https://www.blockchain.com/btc/address/1Afh86YLq9tZWGsQhmDvCoGE2QhwYXxmcY) + [25](https://www.blockchain.com/btc/address/12BycRrxPivnhnwfD5qfKaE7ccAc1qhrCb) | 50% | :lock: | :six: | 24.06.2022 |
 | 74.16883731.dat | [1F11GQNQKTEme6L74c5dVTTMkD7ME2jiqP](https://www.blockchain.com/btc/address/1F11GQNQKTEme6L74c5dVTTMkD7ME2jiqP) | 50% | :lock: | :one: | 09.06.2022 |
 | 73.50781094.dat | [18EGA8nGHjA998Qc17je6K8T6UUDHxeoCH](https://www.blockchain.com/btc/address/18EGA8nGHjA998Qc17je6K8T6UUDHxeoCH) | 50% | :lock: | :one: | 09.06.2022 |
-| 67.82951641.dat | [1Lvs4iij3hkMasDBENCNqgdTb3f3BXbUEL](https://www.blockchain.com/btc/address/1Lvs4iij3hkMasDBENCNqgdTb3f3BXbUEL) + [37](https://www.blockchain.com/btc/address/18XNHa8aLpmxmJJFvf2QjNa638U691TC6W)| 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 67.82951641.dat | [1Lvs4iij3hkMasDBENCNqgdTb3f3BXbUEL](https://www.blockchain.com/btc/address/1Lvs4iij3hkMasDBENCNqgdTb3f3BXbUEL) + [37](https://www.blockchain.com/btc/address/18XNHa8aLpmxmJJFvf2QjNa638U691TC6W) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 67.28898471.dat | [13AP4J1bE348USwHcaY3c846PdA31RCHeh](https://www.blockchain.com/btc/address/13AP4J1bE348USwHcaY3c846PdA31RCHeh) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 64.30251094.dat | [1LRc9XLxZbDrHDEagHPESdxbzm798HMek2](https://www.blockchain.com/btc/address/1LRc9XLxZbDrHDEagHPESdxbzm798HMek2) | 50% | :lock: | :six: | 24.06.2022 |
 | 63.10894284.dat | [1LWRBFB9u9oCDuawjGUrr1RoyFXhhZvoXb](https://www.blockchain.com/btc/address/1LWRBFB9u9oCDuawjGUrr1RoyFXhhZvoXb) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 62.80100547.dat | [12bQpYge7nBajDzyTVhGXJiwmoUKwUwDYZ](https://www.blockchain.com/btc/address/12bQpYge7nBajDzyTVhGXJiwmoUKwUwDYZ) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 62.01123163.dat | [1Aw6miK9me2AijQ76Q32NkPa1B7buWqWPg](https://www.blockchain.com/btc/address/1Aw6miK9me2AijQ76Q32NkPa1B7buWqWPg) + [12](https://www.blockchain.com/btc/address/1randomHRkykgzMBRbrzD1781aP6gKW78)|  50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 59.81292313.dat | [12zYF8DoAnQBBqQH7PaXia1xJUgrDo5cEV](https://www.blockchain.com/btc/address/12zYF8DoAnQBBqQH7PaXia1xJUgrDo5cEV) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 59.72251094.dat | [19zzy2kqnXRKAtEhveLvUn6uycQBqdpaP2](https://www.blockchain.com/btc/address/19zzy2kqnXRKAtEhveLvUn6uycQBqdpaP2) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 59.68550641.dat | [12xDNz2WqqeM6SjsVRjQvJwcjzeusc1PQ5](https://www.blockchain.com/btc/address/12xDNz2WqqeM6SjsVRjQvJwcjzeusc1PQ5) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 58.13970000.dat | [12DE6ff6gxLA1JfV7eaGG4ehUUUpZMo8Bo](https://www.blockchain.com/btc/address/12DE6ff6gxLA1JfV7eaGG4ehUUUpZMo8Bo) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 55.98541641.dat | [24.98](https://www.blockchain.com/btc/address/12aQarQixd94FZN1Uz4HppAmLeR9hVyCAG) + [22](https://www.blockchain.com/btc/address/1By1d5W54RakkHq75xAjwUvuTEmjCWpaDA) + [9](https://www.blockchain.com/btc/address/1BEvx6WGSR4i7JSawZUr7zWQLcJnLqauBV)| 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 52.55001760.dat | [13KKv3ywwJ5WYovLgiCAaqpCVuMDEF6oxo](https://www.blockchain.com/btc/address/13KKv3ywwJ5WYovLgiCAaqpCVuMDEF6oxo) | 50% | :lock: | :one: | 09.06.2022 |
 | 52.08001094.dat | [15Ybt9WjCF5ABAZ1GjFVTjzV3dJH5f9USh](https://www.blockchain.com/btc/address/15Ybt9WjCF5ABAZ1GjFVTjzV3dJH5f9USh) | 50% | :lock: | :one: | 09.06.2022 |
+| 51.99952188.dat | [12DE6ff6gxLA1JfV7eaGG4ehUUUpZMo8Bo](https://www.blockchain.com/btc/address/12Bki9QAzEwBiuZDRrvPFyc736wPZKMRQt) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 50.43201094.dat | [1QFDAGXRkhNYfx2mHEu81QH8dAj4go4A8d](https://www.blockchain.com/btc/address/1QFDAGXRkhNYfx2mHEu81QH8dAj4go4A8d) | 50% | :lock: | :one: | 09.06.2022 |
 | 50.18338758.dat | [1NyEeyXu8ydNw67e3ZTUmkwQJ8QNd1o3cF](https://www.blockchain.com/btc/address/1NyEeyXu8ydNw67e3ZTUmkwQJ8QNd1o3cF) | 50% | :lock: | :three: | 09.06.2022 |
 | 50.00011641.dat | [1MtXD6gGHZB1cAcP1Du29Ho9KobMCYD7ZC](https://www.blockchain.com/btc/address/1MtXD6gGHZB1cAcP1Du29Ho9KobMCYD7ZC) | 50% | :lock: | :three: | 09.06.2022 |
@@ -124,28 +131,52 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 50.00001641.dat | [1JHqAnwohyhXgvwNnzEMeMwejsf6vHZhgp](https://www.blockchain.com/btc/address/1JHqAnwohyhXgvwNnzEMeMwejsf6vHZhgp) | 50% | :lock: | :four: | 09.06.2022 |
 | 50.00001641-2.dat | [18h7ETAzcqRCGNXTstWSavrvhy5S5YKsQF](https://www.blockchain.com/btc/address/18h7ETAzcqRCGNXTstWSavrvhy5S5YKsQF) | 50% | :lock: | :four: | 09.06.2022 |
 | 50.00000547.dat | [1Aw6miK9me2AijQ76Q32NkPa1B7buWqWPg](https://www.blockchain.com/btc/address/1Aw6miK9me2AijQ76Q32NkPa1B7buWqWPg) | 50% | :lock: | :one: | 09.06.2022 |
+| 49.94014893.dat | [15Dtkqjy7FQxzH42Bjd1AC6iuaB8oyKqat](https://www.blockchain.com/btc/address/15Dtkqjy7FQxzH42Bjd1AC6iuaB8oyKqat) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 48.92440002.dat | [18rB6Uh5tGTu1TftZ8swNgzp9DtieJaWhz](https://www.blockchain.com/btc/address/18rB6Uh5tGTu1TftZ8swNgzp9DtieJaWhz) | 50% | :lock: | :one: | 09.06.2022 |
 | 47.00001094.dat | [18HYU4HJe6h4ETeG1N7GUANFoKoqME2JYT](https://www.blockchain.com/btc/address/18HYU4HJe6h4ETeG1N7GUANFoKoqME2JYT) | 50% | :lock: | :six: | 24.06.2022 |
+| 45.67025993.dat | [19SunjizE7zNb9kdUC2bHHkTQShTrLcei1](https://www.blockchain.com/btc/address/19SunjizE7zNb9kdUC2bHHkTQShTrLcei1) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 45.50001641.dat | [11GpAvGBCFQCNdKZDvduQZYW8oyihDiD2](https://www.blockchain.com/btc/address/11GpAvGBCFQCNdKZDvduQZYW8oyihDiD2) + [2](https://www.blockchain.com/btc/address/1CKR3yqBv7j6EXnGzR4kHZvPLd4M3K3ksi) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 43.68027073.dat | [34](https://www.blockchain.com/btc/address/12369JpcbysoEu1C8ahdCEmokMNMAGibAw) + [8](https://www.blockchain.com/btc/address/1MMZ7xrCZk7PWDeRoGkebkewKnKgZyRbrU) + [8](https://www.blockchain.com/btc/address/18vRCXGNbvpHEWrdgMNuZdLgYn1y9W8vxk) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 42.53718329.dat | [1NKmf6GszBQ6wo349LUT4Je1csNyDDpb5Y](https://www.blockchain.com/btc/address/1NKmf6GszBQ6wo349LUT4Je1csNyDDpb5Y) | 50% | :lock: | :three: | 09.06.2022 |
+| 42.42510000.dat | [12mG7XAX2NCiSQH6ZwNmCTh1M8z4W3A4dG](https://www.blockchain.com/btc/address/12mG7XAX2NCiSQH6ZwNmCTh1M8z4W3A4dG) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 40.47002188.dat | [12jVRiiyV15vQP4egcaqZNbAh3RuWjSxbE](https://www.blockchain.com/btc/address/12jVRiiyV15vQP4egcaqZNbAh3RuWjSxbE) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 36.09636597.dat | [125j2Xiecmh65PuuNfrRYD51jbxscV6ao9](https://www.blockchain.com/btc/address/125j2Xiecmh65PuuNfrRYD51jbxscV6ao9) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 36.04910000.dat | [1FDq1MB13PwGhUyFvBoRMmurE2ws1YNvLm](https://www.blockchain.com/btc/address/1FDq1MB13PwGhUyFvBoRMmurE2ws1YNvLm) + [14](https://www.blockchain.com/btc/address/1KRutZJPaLmksEecb3yQsmUjQ2B9UmvubT) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 34.77568617.dat | [1GnNo5yKUiPoHY3Lo67nNYEMgHRDxaNEo2](https://www.blockchain.com/btc/address/1GnNo5yKUiPoHY3Lo67nNYEMgHRDxaNEo2) | 50% | :lock: | :eight: | 01.08.2022 |
+| 33.03753186.dat | [19zTmCBZ7vEPn9JsPsws3qS2kHTKGybCiZ](https://www.blockchain.com/btc/address/19zTmCBZ7vEPn9JsPsws3qS2kHTKGybCiZ) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 32.85679433.dat | [15r2tRv6B47zGFrCFsUSxtGtxxKVN6KAUc](https://www.blockchain.com/btc/address/15r2tRv6B47zGFrCFsUSxtGtxxKVN6KAUc) | 50% | :lock: | :one: | 09.06.2022 |
+| 32.06791547.dat | [124uKN9UdV9PersXcJKdJoQ9YnsVCP3HnB](https://www.blockchain.com/btc/address/124uKN9UdV9PersXcJKdJoQ9YnsVCP3HnB) + [7.3](https://www.blockchain.com/btc/address/1J92oZAUDcdi5Hcm8AePumCcc3zREMLyQT)| 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 32.86591547.dat | [1Pey3aaWFbyRXGqWPGeWQmvcc2YLDkkoqS](https://www.blockchain.com/btc/address/1Pey3aaWFbyRXGqWPGeWQmvcc2YLDkkoqS) + [13](https://www.blockchain.com/btc/address/1BdoLMxD76HC9rwmmA6YL9339utvxyW3tV)| 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 31.63000580.dat | [1EZeYuLR2ugK8sk4XeDVcyNGBT7sGPDrNb](https://www.blockchain.com/btc/address/1EZeYuLR2ugK8sk4XeDVcyNGBT7sGPDrNb) | 50% | :lock: | :four: | 09.06.2022 |
 | 31.01002188.dat | [14J2wsejqNKtrEpAe1ziQVHQHFE3yX6bKB](https://www.blockchain.com/btc/address/14J2wsejqNKtrEpAe1ziQVHQHFE3yX6bKB) | 50% | :lock: | :three: | 09.06.2022 |
 | 30.99098222.dat | [18jANvQ6AuVGJnea4EhmXiAf6bHR5qKjPB](https://www.blockchain.com/btc/address/18jANvQ6AuVGJnea4EhmXiAf6bHR5qKjPB) | 50% | :lock: | :three: | 09.06.2022 |
+| 30.55994162.dat | [1232yoMgiLYHGdAoer6ka2QLSuArNbPZde](https://www.blockchain.com/btc/address/1232yoMgiLYHGdAoer6ka2QLSuArNbPZde) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 30.52501094.dat | [12ebtmV3wH9d2Jjg7zDyYJQxzDrWTjnGHm](https://www.blockchain.com/btc/address/12ebtmV3wH9d2Jjg7zDyYJQxzDrWTjnGHm) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 28.33194248.dat | [1DgndGwKyGB6gFwE26atwsEkrppGjuxAtW](https://www.blockchain.com/btc/address/1DgndGwKyGB6gFwE26atwsEkrppGjuxAtW) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 28.32844200.dat | [14MSmvaybM5G7HeobaGGXE4Yv2F9henmTJ](https://www.blockchain.com/btc/address/14MSmvaybM5G7HeobaGGXE4Yv2F9henmTJ) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 28.12063817.dat | [1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9](https://www.blockchain.com/btc/address/1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 28.00001000.dat | [1PbHeg1WDosvuhApxbfQg3iFDQ2WW7Mttf](https://www.blockchain.com/btc/address/1PbHeg1WDosvuhApxbfQg3iFDQ2WW7Mttf) | 50% | :lock: | :three: | 09.06.2022 |
 | 27.03768216.dat | [1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5](https://www.blockchain.com/btc/address/1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5) | 50% | :lock: | :three: | 09.06.2022 |
+| 26.45955545.dat | [1LX27PZRjDyDngtUEqU79NHBT5Y2RYbKnH](https://www.blockchain.com/btc/address/1LX27PZRjDyDngtUEqU79NHBT5Y2RYbKnH) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 26.31815227.dat | [124tGjfhwQuMVpbTYjZUfQePKzy2xaNjKB](https://www.blockchain.com/btc/address/124tGjfhwQuMVpbTYjZUfQePKzy2xaNjKB) + [1.95](https://www.blockchain.com/btc/address/12dPXypzVHt7S8EUd7SMDEwruFZUfcwybS) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 25.99960547.dat | [1JSTCtS21CFqBz2ZQT4X9sTeCoy58FwtDj](https://www.blockchain.com/btc/address/1JSTCtS21CFqBz2ZQT4X9sTeCoy58FwtDj) | 50% | :lock: | :three: | 09.06.2022 |
 | 25.00101641.dat | [14PcoSTA1g2k1t2W5jg1S9zc5Si8ToQxke](https://www.blockchain.com/btc/address/14PcoSTA1g2k1t2W5jg1S9zc5Si8ToQxke) | 50% | :lock: | :one: | 09.06.2022 |
+| 24.08800000.dat | [1C6eCd9ejZhpZp4GQ43Tg1zcsC7Y9xao9x](https://www.blockchain.com/btc/address/1C6eCd9ejZhpZp4GQ43Tg1zcsC7Y9xao9x) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 22.99951094.dat | [126YbYWV2BJbkKMi8rSdn4GUq9dLSEt1G8](https://www.blockchain.com/btc/address/126YbYWV2BJbkKMi8rSdn4GUq9dLSEt1G8) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 22.85001641.dat | [19Hj5Pzi4hCj12porw97i183XYTrScbtXS](https://www.blockchain.com/btc/address/19Hj5Pzi4hCj12porw97i183XYTrScbtXS) | 50% | :lock: | :three: | 09.06.2022 |
+| 22.77301399.dat | [126BDzqcqwvJiL5pGU6RaGzP76spmZ2n2b](https://www.blockchain.com/btc/address/126BDzqcqwvJiL5pGU6RaGzP76spmZ2n2b) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 22.75000547.dat | [142mQiLgqUvLA49CgBqYnPYX6Ei66iGSBB](https://www.blockchain.com/btc/address/142mQiLgqUvLA49CgBqYnPYX6Ei66iGSBB) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 21.89679859.dat | [1HBXJBXWYM1jZd8p1ff2a4uhJxvtgoXiYU](https://www.blockchain.com/btc/address/1HBXJBXWYM1jZd8p1ff2a4uhJxvtgoXiYU) | 50% | :lock: | :one: | 09.06.2022 |
 | 20.11001641.dat | [1NuPEefRU2AZ319x45fY5wBHBV2Z72PY98](https://www.blockchain.com/btc/address/1NuPEefRU2AZ319x45fY5wBHBV2Z72PY98) | 50% | :lock: | :one: | 09.06.2022 |
 | 20.00241094.dat | [1F3yxoWp5TdpVzbziVJ2VnvhpaXJma3qnF](https://www.blockchain.com/btc/address/1F3yxoWp5TdpVzbziVJ2VnvhpaXJma3qnF) | 50% | :lock: | :one: | 09.06.2022 |
 | 19.88790000.dat | [19hZHgZt94uXxSJhWDqxMpEZmN3ctvVFvH](https://www.blockchain.com/btc/address/19hZHgZt94uXxSJhWDqxMpEZmN3ctvVFvH) | 50% | :lock: | :one: | 09.06.2022 |
 | 19.43300547.dat | [18H3tXBX9fC2AguKV2m34YKHYugN1Y4XkA](https://www.blockchain.com/btc/address/18H3tXBX9fC2AguKV2m34YKHYugN1Y4XkA) | 50% | :lock: | :one: | 09.06.2022 |
+| 19.39398461.dat | [1CqFnJ64AHKP4zAnxgy3GZVpE1cQkXAHej](https://www.blockchain.com/btc/address/1CqFnJ64AHKP4zAnxgy3GZVpE1cQkXAHej) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 19.33608000.dat | [1HuTxwnZMyaNRTsHJ2Xg83Z7mt75dtdwC3](https://www.blockchain.com/btc/address/1HuTxwnZMyaNRTsHJ2Xg83Z7mt75dtdwC3) | 50% | :lock: | :one: | 09.06.2022 |
 | 19.30000000.dat | [18HKjVPJwfDg7TDSpoVh2KBiTQny6hymMX](https://www.blockchain.com/btc/address/18HKjVPJwfDg7TDSpoVh2KBiTQny6hymMX) | 50% | :lock: | :one: | 09.06.2022 |
 | 19.28011668.dat | [1EREjjsLgB5JJQhN89gQR9PvH89yWJ4kuV](https://www.blockchain.com/btc/address/1EREjjsLgB5JJQhN89gQR9PvH89yWJ4kuV) | 50% | :lock: | :one: | 09.06.2022 |
-| 18.72704494.dat | [1LSmeqqYoyGAxUwLxmkvuDU6LGM2FGf6AS](https://www.blockchain.com/btc/address/1LSmeqqYoyGAxUwLxmkvuDU6LGM2FGf6AS) | 50% | :lock: | :one: | 09.06.2022 |
+| 19.39398461.dat | [1CqFnJ64AHKP4zAnxgy3GZVpE1cQkXAHej](https://www.blockchain.com/btc/address/1CqFnJ64AHKP4zAnxgy3GZVpE1cQkXAHej) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 18.72704494.dat | [4](https://www.blockchain.com/btc/address/142PAUxDRjLyABWrWTx9Ld93sDzoBfH2GU) + [3.99](https://www.blockchain.com/btc/address/12GeKqSnGGLXoVUSpWipNbAfgkDKbjS3wv) + [3](https://www.blockchain.com/btc/address/12LL17Wxxh7n2wsT4fYUkpZKfH5gBKNC4Y) +[2.5](https://www.blockchain.com/btc/address/12zQgQx9q272gbPSmtBHB1BfE4Z9To2JvA) + [1.7](https://www.blockchain.com/btc/address/12DgftV19iKvWbzjNER7QvbtdbbS7GZXca) +3.4 | 50% | :lock: | :one: | 09.06.2022 |
 | 18.17000000.dat | [1EM7FJV7L3CJZuH6SFTpYnmbMi9RXKdwK6](https://www.blockchain.com/btc/address/1EM7FJV7L3CJZuH6SFTpYnmbMi9RXKdwK6) | 50% | :lock: | :three: | 09.06.2022 |
 | 18.00000000.dat | [1B5FuKQgmPg4SJsCjFU3svrFPpZpQZMU1d](https://www.blockchain.com/btc/address/1B5FuKQgmPg4SJsCjFU3svrFPpZpQZMU1d) | 50% | :lock: | :one: | 09.06.2022 |
 | 17.82900000.dat | [1LwQU2kqdH6dLSsizstNxrhqk7XhCMLMF3](https://www.blockchain.com/btc/address/1LwQU2kqdH6dLSsizstNxrhqk7XhCMLMF3) | 50% | :lock: | :four: | 09.06.2022 |
@@ -167,9 +198,12 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 14.09013974.dat | [1GDcVTrZNhVFt7pEnwvHfepoth6mqHVVvq](https://www.blockchain.com/btc/address/1GDcVTrZNhVFt7pEnwvHfepoth6mqHVVvq) | 50% | :lock: | :four: | 09.06.2022 |
 | 14.00010000.dat | [177a2RmG1nn78BQpjAyuEztvv24dXdns7r](https://www.blockchain.com/btc/address/177a2RmG1nn78BQpjAyuEztvv24dXdns7r) | 50% | :lock: | :one: | 09.06.2022 |
 | 14.00001641.dat | [1JHwt6ArhujJmgDKPtSmGkMmSAPyAhVptL](https://www.blockchain.com/btc/address/1JHwt6ArhujJmgDKPtSmGkMmSAPyAhVptL) | 50% | :lock: | :six: | 24.06.2022 |
+| 13.99940000.dat | [1KRutZJPaLmksEecb3yQsmUjQ2B9UmvubT](https://www.blockchain.com/btc/address/1KRutZJPaLmksEecb3yQsmUjQ2B9UmvubT) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 13.76858117.dat | [1LmdsdywkMNqgXg7x7q88NT2WeXXf52co3](https://www.blockchain.com/btc/address/1LmdsdywkMNqgXg7x7q88NT2WeXXf52co3) | 50% | :lock: | :one: | 09.06.2022 |
 | 13.47094589.dat | [1DphS33aWDZBWNEh3rPJFfD6GFP1mmgerU](https://www.blockchain.com/btc/address/1DphS33aWDZBWNEh3rPJFfD6GFP1mmgerU) | 50% | :lock: | :one: | 09.06.2022 |
 | 12.82192064.dat | [19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS](https://www.blockchain.com/btc/address/19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS) | 50% | :lock: | :one: | 09.06.2022 |
+| 11.26828169.dat | [1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47](https://www.blockchain.com/btc/address/1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
+| 11.57877787.dat | [1uYCbKFjfaGuGVebYMqgxeQSU4c8go52N](https://www.blockchain.com/btc/address/1uYCbKFjfaGuGVebYMqgxeQSU4c8go52N) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 10.83091000.dat | [1MB28otoAQFpP9ywiA8CbYVSKHpSTBH1z6](https://www.blockchain.com/btc/address/1MB28otoAQFpP9ywiA8CbYVSKHpSTBH1z6) | 50% | :lock: | :three: | 09.06.2022 |
 | 10.50200000.dat | [14PEUoKuRB9Q7yfS94cRXh2XugsrBxbxAo](https://www.blockchain.com/btc/address/14PEUoKuRB9Q7yfS94cRXh2XugsrBxbxAo) | 50% | :lock: | :three: | 09.06.2022 |
 | 10.21000001.dat | [1L3amZhWgU8vnGzeMKJc4QFqvQhpU53WsV](https://www.blockchain.com/btc/address/1L3amZhWgU8vnGzeMKJc4QFqvQhpU53WsV) | 50% | :lock: | :one: | 09.06.2022 |
