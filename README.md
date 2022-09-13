@@ -23,7 +23,29 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 - [**Fake Wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
 - [**Frequently asked Questions**](https://github.com/phrutis/LostWallets#frequently-asked-questions)
 
-### Partner addresses 25%
+You can search by yourself if you find the password you will get 50%</br>
+Or you can take part in a collective search<hr>
+
+# How to participate in a collective search:
+If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
+Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+You will be connected to the server, they will give you an id and other information.
+
+## The advantage of collective search:
+You will not go through combinations that have already been completed.</br>
+Many lone hunters very often make mistakes.</br>
+The server controls all ranges and issues new ones.</br>
+You do not need to select the correct masks, hashes and more.</br>
+If the password is found, all participants will win and receive coins.
+
+### The terms of participation:
+25% Received by the partner (whose hash is in the table)</br>
+5% Organizers</br>
+70% is divided among all participants in % of ranges covered.</br>
+Enough coins for everyone<hr>
+
+
+## Partner addresses 25%
 :one: - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
 :two: - bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz</br>
 :three: - 1NoName1LLKRfLmoh9jawLWrf6t185bC7v</br>
