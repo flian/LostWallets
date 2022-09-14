@@ -8,13 +8,11 @@ Download the latest version of hashcat [**here**](https://github.com/hashcat/has
 An example of using masks in hashcat is [**here**](https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/)</br>
 The hashes of the passwords [**here**](https://github.com/phrutis/LostWallets/blob/main/README.md#heshes-table)</br>
 
-## Example of starting a search
-TEST: ```hashcat.exe -m 11300 -a 3 test.txt foot?l?l?l?l -D 2 -w 3 -o FOUND.txt```</br>
-Examples:</br>
+## Examples:</br>
 Run: ```hashcat.exe -m 11300 -a 3 hash.txt ?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 7 --increment hash.txt -1 ?l?d ?l?l?l?l?1?1?1?1 prefix.txt -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 1 hash.txt WORDLIST.txt WORDLIST2.txt -D 2 -w 3 -S -o FOUND.txt```</br>
-Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=6 --increment-max=12 hash.txt ?a?a?a?a?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
+Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=7 --increment-max=10 hash.txt ?a?a?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Use your password search prefixes by mask or [dictionaries](https://www.weakpass.com/wordlist)</br>
 
 If you manage to find the password, write to me in telegram ```phrutis```</br>
@@ -146,12 +144,15 @@ Enough coins for everyone<hr>
 | 0 | 51.99952188.dat | [12DE6ff6gxLA1JfV7eaGG4ehUUUpZMo8Bo](https://www.blockchain.com/btc/address/12Bki9QAzEwBiuZDRrvPFyc736wPZKMRQt) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 0 | 50.43201094.dat | [1QFDAGXRkhNYfx2mHEu81QH8dAj4go4A8d](https://www.blockchain.com/btc/address/1QFDAGXRkhNYfx2mHEu81QH8dAj4go4A8d) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 50.18338758.dat | [1NyEeyXu8ydNw67e3ZTUmkwQJ8QNd1o3cF](https://www.blockchain.com/btc/address/1NyEeyXu8ydNw67e3ZTUmkwQJ8QNd1o3cF) | 50% | :lock: | :three: | 09.06.2022 |
+| 0 | 50.05770000.dat | [1cogeR1nG6VwHeAQGc38EvhLsaDJgLfkn](https://www.blockchain.com/btc/address/1cogeR1nG6VwHeAQGc38EvhLsaDJgLfkn) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
 | 0 | 50.00011641.dat | [1MtXD6gGHZB1cAcP1Du29Ho9KobMCYD7ZC](https://www.blockchain.com/btc/address/1MtXD6gGHZB1cAcP1Du29Ho9KobMCYD7ZC) | 50% | :lock: | :three: | 09.06.2022 |
 | 0 | 50.00004046.dat | [13vq3LDCBpwbyxSenJDpHWt3xCXgbtzp9V](https://www.blockchain.com/btc/address/13vq3LDCBpwbyxSenJDpHWt3xCXgbtzp9V) | 50% | :lock: | :four: | 09.06.2022 |
 | 0 | 50.00003282.dat | [1E4ad5bA8HgbqxsPYpmDtVRNBRF2XfqTns](https://www.blockchain.com/btc/address/1E4ad5bA8HgbqxsPYpmDtVRNBRF2XfqTns) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 50.00002188.dat | [1KTvsW5tg5gkJf9fyT2xsvjkv7dzuZNTpW](https://www.blockchain.com/btc/address/1KTvsW5tg5gkJf9fyT2xsvjkv7dzuZNTpW) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 50.00001641.dat | [1JHqAnwohyhXgvwNnzEMeMwejsf6vHZhgp](https://www.blockchain.com/btc/address/1JHqAnwohyhXgvwNnzEMeMwejsf6vHZhgp) | 50% | :lock: | :four: | 09.06.2022 |
 | 0 | 50.00001641-2.dat | [18h7ETAzcqRCGNXTstWSavrvhy5S5YKsQF](https://www.blockchain.com/btc/address/18h7ETAzcqRCGNXTstWSavrvhy5S5YKsQF) | 50% | :lock: | :four: | 09.06.2022 |
+| 0 | 50.00001641.dat | [1CKvzg5zxVrgxm7hBJksvj8sgs1VijqHYS](https://www.blockchain.com/btc/address/1CKvzg5zxVrgxm7hBJksvj8sgs1VijqHYS) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
+| 0 | 50.00001094.dat | [125Hwi1ekbNXe6vxEW5XXTE2D76mDLZ2au](https://www.blockchain.com/btc/address/125Hwi1ekbNXe6vxEW5XXTE2D76mDLZ2au) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
 | 0 | 50.00000547.dat | [1Aw6miK9me2AijQ76Q32NkPa1B7buWqWPg](https://www.blockchain.com/btc/address/1Aw6miK9me2AijQ76Q32NkPa1B7buWqWPg) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 49.94014893.dat | [15Dtkqjy7FQxzH42Bjd1AC6iuaB8oyKqat](https://www.blockchain.com/btc/address/15Dtkqjy7FQxzH42Bjd1AC6iuaB8oyKqat) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 0 | 48.92440002.dat | [18rB6Uh5tGTu1TftZ8swNgzp9DtieJaWhz](https://www.blockchain.com/btc/address/18rB6Uh5tGTu1TftZ8swNgzp9DtieJaWhz) | 50% | :lock: | :one: | 09.06.2022 |
@@ -183,6 +184,7 @@ Enough coins for everyone<hr>
 | 0 | 26.31815227.dat | [124tGjfhwQuMVpbTYjZUfQePKzy2xaNjKB](https://www.blockchain.com/btc/address/124tGjfhwQuMVpbTYjZUfQePKzy2xaNjKB) + [1.95](https://www.blockchain.com/btc/address/12dPXypzVHt7S8EUd7SMDEwruFZUfcwybS) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 0 | 25.99960547.dat | [1JSTCtS21CFqBz2ZQT4X9sTeCoy58FwtDj](https://www.blockchain.com/btc/address/1JSTCtS21CFqBz2ZQT4X9sTeCoy58FwtDj) | 50% | :lock: | :three: | 09.06.2022 |
 | 0 | 25.00101641.dat | [14PcoSTA1g2k1t2W5jg1S9zc5Si8ToQxke](https://www.blockchain.com/btc/address/14PcoSTA1g2k1t2W5jg1S9zc5Si8ToQxke) | 50% | :lock: | :one: | 09.06.2022 |
+| 0 | 25.00040000.dat | [12KcJ25csCAsaYjyVy4Wmga6gux8Eq7cEv](https://www.blockchain.com/btc/address/12KcJ25csCAsaYjyVy4Wmga6gux8Eq7cEv) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
 | 0 | 24.08800000.dat | [1C6eCd9ejZhpZp4GQ43Tg1zcsC7Y9xao9x](https://www.blockchain.com/btc/address/1C6eCd9ejZhpZp4GQ43Tg1zcsC7Y9xao9x) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 0 | 22.99951094.dat | [126YbYWV2BJbkKMi8rSdn4GUq9dLSEt1G8](https://www.blockchain.com/btc/address/126YbYWV2BJbkKMi8rSdn4GUq9dLSEt1G8) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 0 | 22.85001641.dat | [19Hj5Pzi4hCj12porw97i183XYTrScbtXS](https://www.blockchain.com/btc/address/19Hj5Pzi4hCj12porw97i183XYTrScbtXS) | 50% | :lock: | :three: | 09.06.2022 |
@@ -190,6 +192,7 @@ Enough coins for everyone<hr>
 | 0 | 22.75000547.dat | [142mQiLgqUvLA49CgBqYnPYX6Ei66iGSBB](https://www.blockchain.com/btc/address/142mQiLgqUvLA49CgBqYnPYX6Ei66iGSBB) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 0 | 21.89679859.dat | [1HBXJBXWYM1jZd8p1ff2a4uhJxvtgoXiYU](https://www.blockchain.com/btc/address/1HBXJBXWYM1jZd8p1ff2a4uhJxvtgoXiYU) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 20.11001641.dat | [1NuPEefRU2AZ319x45fY5wBHBV2Z72PY98](https://www.blockchain.com/btc/address/1NuPEefRU2AZ319x45fY5wBHBV2Z72PY98) | 50% | :lock: | :one: | 09.06.2022 |
+| 0 | 20.00320601.dat | [112cyv8zoxbi4d7zuavo5FTstKvhKZNTVr](https://www.blockchain.com/btc/address/112cyv8zoxbi4d7zuavo5FTstKvhKZNTVr) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
 | 0 | 20.00241094.dat | [1F3yxoWp5TdpVzbziVJ2VnvhpaXJma3qnF](https://www.blockchain.com/btc/address/1F3yxoWp5TdpVzbziVJ2VnvhpaXJma3qnF) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 19.88790000.dat | [19hZHgZt94uXxSJhWDqxMpEZmN3ctvVFvH](https://www.blockchain.com/btc/address/19hZHgZt94uXxSJhWDqxMpEZmN3ctvVFvH) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 19.43300547.dat | [18H3tXBX9fC2AguKV2m34YKHYugN1Y4XkA](https://www.blockchain.com/btc/address/18H3tXBX9fC2AguKV2m34YKHYugN1Y4XkA) | 50% | :lock: | :one: | 09.06.2022 |
@@ -229,6 +232,7 @@ Enough coins for everyone<hr>
 | 0 | 10.83091000.dat | [1MB28otoAQFpP9ywiA8CbYVSKHpSTBH1z6](https://www.blockchain.com/btc/address/1MB28otoAQFpP9ywiA8CbYVSKHpSTBH1z6) | 50% | :lock: | :three: | 09.06.2022 |
 | 0 | 10.50200000.dat | [14PEUoKuRB9Q7yfS94cRXh2XugsrBxbxAo](https://www.blockchain.com/btc/address/14PEUoKuRB9Q7yfS94cRXh2XugsrBxbxAo) | 50% | :lock: | :three: | 09.06.2022 |
 | 0 | 10.21000001.dat | [1L3amZhWgU8vnGzeMKJc4QFqvQhpU53WsV](https://www.blockchain.com/btc/address/1L3amZhWgU8vnGzeMKJc4QFqvQhpU53WsV) | 50% | :lock: | :one: | 09.06.2022 |
+| 0 | 9.43222995.dat | [5.43](https://www.blockchain.com/btc/address/13aueExZ3jAMh3zAxAyp2DJCNc59go9EdG) + [4.00](https://www.blockchain.com/btc/address/13bFkb3svnDMNLPz72iAL36KuanR57ytbb) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
 | 0 | 8.90000000.dat | [1LHjrPBeEYQv1f219VQcQ71EBpwvp3hdD5](https://www.blockchain.com/btc/address/1LHjrPBeEYQv1f219VQcQ71EBpwvp3hdD5) | 50% | :lock: | :four: | 09.06.2022 |
 | 0 | 8.77089137.dat | [16Na4QHvS2rEP23igjKYfgoPqUYtZvzB5d](https://www.blockchain.com/btc/address/16Na4QHvS2rEP23igjKYfgoPqUYtZvzB5d) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 8.50023481.dat | [1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH](https://www.blockchain.com/btc/address/1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH) | 50% | :lock: | :three: | 09.06.2022 |
@@ -237,11 +241,13 @@ Enough coins for everyone<hr>
 | 0 | 6.33560000.dat | [1LYdAMbjcbD8RsnThMz3HwhaGb1keyedjx](https://www.blockchain.com/btc/address/1LYdAMbjcbD8RsnThMz3HwhaGb1keyedjx) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 6.29000000.dat | [13LjzkgZQoHoUEo9CsbLJwGcc8zmnhQrRy](https://www.blockchain.com/btc/address/13LjzkgZQoHoUEo9CsbLJwGcc8zmnhQrRy) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 6.19445176.dat | [1NyECGXWqQdoNUCvNN94CoCC97AgBQcv2o](https://www.blockchain.com/btc/address/1NyECGXWqQdoNUCvNN94CoCC97AgBQcv2o) | 50% | :lock: | :one: | 09.06.2022 |
+| 0 | 6.00000001.dat | [189AfNrrK4a25SKtkwjdF2TZfXmnGt4PcZ](https://www.blockchain.com/btc/address/189AfNrrK4a25SKtkwjdF2TZfXmnGt4PcZ) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
 | 0 | 6.00000000.dat | [1L1iJNKBubV4KbScgKTYS85gjvBmoDpzST](https://www.blockchain.com/btc/address/1L1iJNKBubV4KbScgKTYS85gjvBmoDpzST) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 5.89290000.dat | [1MnMPxYFL6hfCRmQxm1HxyChP7CvaCDaja](https://www.blockchain.com/btc/address/1MnMPxYFL6hfCRmQxm1HxyChP7CvaCDaja) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 5.86332001.dat | [16M7J5ThnZ8TdoTzyS9nrY1c9V7gjjxmbt](https://www.blockchain.com/btc/address/16M7J5ThnZ8TdoTzyS9nrY1c9V7gjjxmbt) | 50% | :lock: | :four: | 09.06.2022 |
 | 0 | 5.08877624.dat | [15zMovc6E134wsPKWXhF364DsQXkLV7wcX](https://www.blockchain.com/btc/address/15zMovc6E134wsPKWXhF364DsQXkLV7wcX) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 5.05538396.dat | [1JEsngBPtTs56qdx7UT3VzkusdmEBPAXCy](https://www.blockchain.com/btc/address/1JEsngBPtTs56qdx7UT3VzkusdmEBPAXCy) | 50% | :lock: | :one: | 11.06.2022 |
+| 0 | 5.03448336.dat | [1JWXHwtBuVGDDjrVDQNFaBHhw7AhuuPeV9](https://www.blockchain.com/btc/address/1JWXHwtBuVGDDjrVDQNFaBHhw7AhuuPeV9) | 50% | :lock: | :four: | 14.06.2022 |
 | 0 | 4.85582600.dat | [1JugtVnWfsRQB53woJCkKkLkL1HzHgXPvB](https://www.blockchain.com/btc/address/1JugtVnWfsRQB53woJCkKkLkL1HzHgXPvB) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 4.82537042.dat | [1Hrbgj881yoMYYvNvPkgGgEx6Kw8JxirLK](https://www.blockchain.com/btc/address/1Hrbgj881yoMYYvNvPkgGgEx6Kw8JxirLK) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 4.38100000.dat | [1CQyjZ8Rptd9YnZW7rX87rmni8HAPfwRgh](https://www.blockchain.com/btc/address/1CQyjZ8Rptd9YnZW7rX87rmni8HAPfwRgh) | 50% | :lock: | :three: | 09.06.2022 |
@@ -253,6 +259,7 @@ Enough coins for everyone<hr>
 | 0 | 3.85090000.dat | [1GGwxGLy8PK1LUKBY71AZGessdkgdHxCd7](https://www.blockchain.com/btc/address/1GGwxGLy8PK1LUKBY71AZGessdkgdHxCd7) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 3.73979441.dat | [17KwpmAu27ycGndUU4Jwj2HvFkYEUefuJd](https://www.blockchain.com/btc/address/17KwpmAu27ycGndUU4Jwj2HvFkYEUefuJd) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 3.53383248.dat | [1NUW3z5z6cNs8Ltd2cN2BnxP92dySdcuG8](https://www.blockchain.com/btc/address/1NUW3z5z6cNs8Ltd2cN2BnxP92dySdcuG8) | 50% | :lock: | :four: | 09.06.2022 |
+| 0 | 3.04914900.dat | [1N6Xc6abEK51M5zM2wMDAJ7NNT7WEoqAnm](https://www.blockchain.com/btc/address/1N6Xc6abEK51M5zM2wMDAJ7NNT7WEoqAnm) | 50% | :lock: | :four: | 14.06.2022 |
 | 0 | 3.36894140.dat | [1BGJWEmGZhCYQEgp3pSZsBP3EYZF2c7vtS](https://www.blockchain.com/btc/address/1BGJWEmGZhCYQEgp3pSZsBP3EYZF2c7vtS) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 3.17460240.dat | [15NtoCW4eoT2L9LQRvpKtNdiHt3Lh1Sv9t](https://www.blockchain.com/btc/address/15NtoCW4eoT2L9LQRvpKtNdiHt3Lh1Sv9t) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 3.08715076.dat | [15tzMWqPk6XcW7g1AB2sLfHp8KAuzVkWBv](https://www.blockchain.com/btc/address/15tzMWqPk6XcW7g1AB2sLfHp8KAuzVkWBv) | 50% | :lock: | :one: | 09.06.2022 |
@@ -270,6 +277,7 @@ Enough coins for everyone<hr>
 | 0 | 2.63049301.dat | [13EmuvWVN7phTS5o9Ru1FsYuZ43rKpGTKm](https://www.blockchain.com/btc/address/13EmuvWVN7phTS5o9Ru1FsYuZ43rKpGTKm) | 50% | :lock: | :four: | 09.06.2022 |
 | 0 | 2.53794900.dat | [16ySdKvgp9bHPgjnfxUawPrmRyQBvfbuWr](https://www.blockchain.com/btc/address/16ySdKvgp9bHPgjnfxUawPrmRyQBvfbuWr) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 2.50000000.dat | [1GGtCHaMAzSex7tRaNPMG1ZC2WF5UYuZjy](https://www.blockchain.com/btc/address/1GGtCHaMAzSex7tRaNPMG1ZC2WF5UYuZjy) | 50% | :lock: | :one: | 09.06.2022 |
+| 0 | 2.45963000.dat | [1K9k7LP1e3GQ6fF8dimzKp8oGWiwkBdtUu](https://www.blockchain.com/btc/address/1K9k7LP1e3GQ6fF8dimzKp8oGWiwkBdtUu) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
 | 0 | 2.40000000.dat | [1AFuqjnZSveYPpaAQqH6VRssxSF9YjRxaz](https://www.blockchain.com/btc/address/1AFuqjnZSveYPpaAQqH6VRssxSF9YjRxaz) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 2.29597675.dat | [13Rb4ZMRjrkSYFLgdCJuxF7AWPngyaeC7e](https://www.blockchain.com/btc/address/13Rb4ZMRjrkSYFLgdCJuxF7AWPngyaeC7e) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 2.28883133.dat | [1FcHtQuvWrFLzqRKVgaaGHMEzL1o9bb36U](https://www.blockchain.com/btc/address/1FcHtQuvWrFLzqRKVgaaGHMEzL1o9bb36U) | 50% | :lock: | :one: | 09.06.2022 |
@@ -294,6 +302,7 @@ Enough coins for everyone<hr>
 | 0 | 1.44138096.dat | [17YbJhRweKx2tVqepkvMYKvP9zxLfXLKoz](https://www.blockchain.com/btc/address/17YbJhRweKx2tVqepkvMYKvP9zxLfXLKoz) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 1.44124101.dat | [1Lc6RJEB99cXMRBnkuTZqqojv6pRjikCkA](https://www.blockchain.com/btc/address/1Lc6RJEB99cXMRBnkuTZqqojv6pRjikCkA) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 1.39498354.dat | [1CcnHNGyxM6FCfjMrV5dwBW1mngGnUkFMF](https://www.blockchain.com/btc/address/1CcnHNGyxM6FCfjMrV5dwBW1mngGnUkFMF) | 50% | :lock: | :one: | 09.06.2022 |
+| 0 | 1.21730733.dat | [18TunLkX51RgFYQyjmqgRE3zZ6ankDawC5](https://www.blockchain.com/btc/address/18TunLkX51RgFYQyjmqgRE3zZ6ankDawC5) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
 | 0 | 1.09479390.dat | [1AS8nsUcQYvJQJDrxi9rpjSHa5n9hVLLno](https://www.blockchain.com/btc/address/1AS8nsUcQYvJQJDrxi9rpjSHa5n9hVLLno) | 50% | :lock: | :one: | 09.06.2022 |
 | 0 | 1.08795916.dat | [1F654t1HxrZtg7uhcXyZeFvRsyB8HCnBXJ](https://www.blockchain.com/btc/address/1F654t1HxrZtg7uhcXyZeFvRsyB8HCnBXJ) | 50% | :lock: | :three: | 09.06.2022 |
 | 0 | 1.00103254.dat | [1AxhH9CKkP1WBoT9bF1jFQo2nEdPDooP4i](https://www.blockchain.com/btc/address/1AxhH9CKkP1WBoT9bF1jFQo2nEdPDooP4i) | 50% | :lock: | :one: | 09.06.2022 |
@@ -460,6 +469,9 @@ Enough coins for everyone<hr>
  0 126BDzqcqwvJiL5pGU6RaGzP76spmZ2n2b - UA user. this password was read from his browser: [WerWert#@!] but is not for this wallet. I recomend [mix]{5,10} + [0-9]{2,6} lengh 8-12
  0 1CqFnJ64AHKP4zAnxgy3GZVpE1cQkXAHej - US user. this password was read from his browser: !GoW@yKer777 but is not for this wallet. I recomend [mix]{5,10} + [0-9]{2,6} lengh 8-16
  0 1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47 - The password consists of digits, symbols, and Latin letters. The owner is a gambler from Germany. He likes rally sport. The password starts from "CMR".
+ 0 1CKvzg5zxVrgxm7hBJksvj8sgs1VijqHYS - The Russian user has generated a password from large small English and numbers, the length of the password is unknown.
+ 0 112cyv8zoxbi4d7zuavo5FTstKvhKZNTVr - CN user. this password was read from his browser: [云淡牛魔王风轻] but is not for this wallet. I recomend chinalist lengh 8-12
+ 0 1K9k7LP1e3GQ6fF8dimzKp8oGWiwkBdtUu - Password 13 characters, there is a space in the password, Russian layout.
  0 26.31815227.dat - US user. this password was read from his browser: [correcthorsebatterystaple] but is not for this wallet. I recomend [a-z] lengh 8-14
  0 32.86591547.dat - Russian user, cyrilic world + numeric. leng: 7-11
  0 32.06791547.dat - CN user, this password was read from his browser: [88/!TiLo3H2zREe)] but is not for this wallet. I recomend mix list lengh 8-14
@@ -561,12 +573,15 @@ Enough coins for everyone<hr>
 | 0 | 51.99952188.dat | $bitcoin$64$49aa9a07b86a9ba3f29f847b7c4d58e581137ebea7e50414c142c05dd942ac28$16$ea58017c72d4a60f$19929$2$00$2$00 |
 | 0 | 50.43201094.dat | $bitcoin$64$b4ec55497c544b4e6a7435fb6f30205c2baf86c9f533da2bbfa1e6f9fabdf330$16$3795a68bc27c5915$35537$2$00$2$00 |
 | 0 | 50.18338758.dat | $bitcoin$64$f3c90b573111e06ff0f96ebf32921f5f3dd10ba219f391ab0fcc1adadd3e2000$16$9809070f76fa92c4$60692$2$00$2$00 |
+| 0 | 50.05770000.dat | $bitcoin$64$5b5cd64cd6dabcf4efd1e91b7ec40ae0ac20efe0a51b2084599f40377e932182$16$ae03f007c6772aca$293209$2$00$2$00 |
 | 0 | 50.00011641.dat | $bitcoin$64$25e8624d377949f36c4fdf104fa7f3ad3307be3499e72cae367f161b38a062d3$16$9d2eb2ad3e972053$37167$2$00$2$00 |
 | 0 | 50.00004046.dat | $bitcoin$64$e5cd19531bbb0c546f510338013f8455b5cd9b2ed802b056847e88a8d1e391e8$16$eba14dbeb5c79b04$63443$2$00$2$00 |
 | 0 | 50.00003282.dat | $bitcoin$64$3335c9e0dfd882b72d86f2b0412463e185768576771c6489e6fad6e4caec94c7$16$3365bac0544c6cc0$37167$2$00$2$00 |
 | 0 | 50.00002188.dat | $bitcoin$64$f95b995bd952613281a7fbf16a37abfa342d579a651d2fcf32c21d7479fe587e$16$c61ebd84c4990e1f$70312$2$00$2$00 |
 | 0 | 50.00001641.dat | $bitcoin$64$29ce72e5f11715f757021bc614fc29ec759cc614052d877ab050888f50245f82$16$2f756cb410d49abc$68432$2$00$2$00 |
 | 0 | 50.00001641-2.dat | $bitcoin$64$3a454c193072c1c905d0d502adfee1e397e5795a5b7b476c15183f13d9c43e30$16$fdd4199dc3488f7e$61570$2$00$2$00 |
+| 0 | 50.00001641.dat | $bitcoin$64$548b66e356401d75e8efeaffe2f92d1725415f5d4216465ed3ba6f0e30e9f855$16$78564343a933ae42$38050$2$00$2$00 |
+| 0 | 50.00001094.dat | $bitcoin$64$a3ae1861ce46d3e3286ca8bbc4b3bfc663a34272c416e4cd2e57260af4cbad02$16$5725342f8544914f$21574$2$00$2$00 |
 | 0 | 50.00000547.dat | $bitcoin$64$45abd6ebb0035af6c4ca2045a2bce9f663b763dc8afb558326752011ee85aa68$16$21eb684dadd49089$70727$2$00$2$00 |
 | 0 | 49.94014893.dat | $bitcoin$64$8ed978fd3bd97970cd3606f1de028668ef648f0fa5bd42a6bfba16d9c24ed3b5$16$6a86e66619c054e1$133612$2$00$2$00 |
 | 0 | 48.92440002.dat | $bitcoin$64$f011045b52a39829f0e053f35b594c18c02bbcd936994279201cbd8e07f27197$16$b7445bc82d7e62fa$38043$2$00$2$00 |
@@ -598,6 +613,7 @@ Enough coins for everyone<hr>
 | 0 | 26.31815227.dat | $bitcoin$64$4eb63c7a7db51a9f5142c8b4c41b8f878bc1987efc12fffcceb8ff6b185a61bd$16$830e6b8fba029f4f$21861$2$00$2$00 |
 | 0 | 25.99960547.dat | $bitcoin$64$c1f68299d421f5f2bba2947cc84bf1cd5be222b92db11473c25dd6f763ad40f1$16$57f4b89317e7d3ba$132242$2$00$2$00 |
 | 0 | 25.00101641.dat | $bitcoin$64$144cc82f35ee18d502a01b826f5c47d201fad3167d26fe252595cf9c892584fa$16$af7ee951c6e05e80$33610$2$00$2$00 |
+| 0 | 25.00040000.dat | $bitcoin$64$8e23a79517813656c80facd4c03c6c184e8295e78dad2efdcb69187ac155964c$16$569cec74ce2eb131$24065$2$00$2$00 |
 | 0 | 24.08800000.dat | $bitcoin$64$e83c02220935ace367de18d8a45df2e21e354bd0a730ccefcaee3d6b0a077e3d$16$f7e7aa08de85978a$19548$2$00$2$00 |
 | 0 | 22.99951094.dat | $bitcoin$64$7fd7ee3cd06fef4e1a8b9fb6da3d1a64d8ffce0fa7541791cb794d63bc266127$16$e971d64b225d9dd1$25920$2$00$2$00 |
 | 0 | 22.85001641.dat | $bitcoin$64$b5360e667fcdccf601d35c5f8bda852de40464373bb79df247c46ac6b97fa76e$16$8ead40334c7161b9$35714$2$00$2$00 |
@@ -605,6 +621,7 @@ Enough coins for everyone<hr>
 | 0 | 22.75000547.dat | $bitcoin$64$e585f84dccd81fa0de245685b7fd94abab3529f7ee4eb08f67d972bf16c0008b$16$5a38d41f5b99e750$29725$2$00$2$00 |
 | 0 | 21.89679859.dat | $bitcoin$64$4e5275fdaa62b805f8866082a87d953cca0c11e8e9d6511ab8a88690e107cd6d$16$802b35126a909e0f$81065$2$00$2$00 |
 | 0 | 20.11001641.dat | $bitcoin$64$3e65e817d605b9d5d0b54bc8418a27aa104847dc59d664c6928601a8098927ee$16$5bcbad051d845552$60692$2$00$2$00 |
+| 0 | 20.00320601.dat | $bitcoin$64$f36e463338a343c196e20244711302f80057665074f8b381a666ba785e8acabc$16$ae98bf306b044b19$25461$2$00$2$00 |
 | 0 | 20.00241094.dat | $bitcoin$64$7120f443a02024283d9a4fef4c2c7167c2df239f4eeac4541a7327fab1ac05e0$16$88e39336106da6be$60692$2$00$2$00 |
 | 0 | 19.88790000.dat | $bitcoin$64$a37dc249738892ddfee64fd9eef6a164c334b2828e24738f53bc22399f0f24a5$16$739dfbe436b4d196$38193$2$00$2$00 |
 | 0 | 19.43300547.dat | $bitcoin$64$8109c279503278b8cdef8b67a817ab04c77c06dd7cc83b76fbe7f3d3f1d4f53d$16$5e4a6c017108845b$66056$2$00$2$00 |
@@ -644,6 +661,7 @@ Enough coins for everyone<hr>
 | 0 | 10.83091000.dat | $bitcoin$64$6942834a1cdda69705d2cf9ebc3a204d5bfa64ff40d81db0bac6ccf63b3aff8f$16$00aa7d8b96e6174d$37698$2$00$2$00 |
 | 0 | 10.50200000.dat | $bitcoin$64$93112f8c11e9cbff7561038eddf268827dd38c72354695fc70d4a01102d22c48$16$14bff2455913f62c$25000$2$00$2$00 |
 | 0 | 10.21000001.dat | $bitcoin$64$5c9d138da82ecbffde730616d3c2b55553118d3884342ac3ee36c9f0cbb552fd$16$3dab00ca419a9840$57197$2$00$2$00 |
+| 0 | 9.43222995.dat | $bitcoin$64$3f4040cae721bc8250aec8bacde6505ebc8d84cbd7f372ae789e1d09e65d76cb$16$1a11561fd94ea613$19771$2$00$2$00 |
 | 0 | 8.90000000.dat | $bitcoin$64$fbb81fa5f31a282331e8ef06d849522e282bd6689174b970fd8635eff36887ca$16$d68a0ad1e3fdd725$71074$2$00$2$00 |
 | 0 | 8.77089137.dat | $bitcoin$64$ef08500b11fda51111e9106ab0bc60fb77870202a7a433abe1dda820be9134f6$16$a962fdb86e3161a4$60692$2$00$2$00 |
 | 0 | 8.50023481.dat | $bitcoin$64$ff134f9f03da571e5b256dec561730aaa674ff37d8a698d3c2c5e66fdbb07335$16$125d64b2bab4c437$136217$2$00$2$00 |
@@ -652,11 +670,13 @@ Enough coins for everyone<hr>
 | 0 | 6.33560000.dat | $bitcoin$64$6631eda4a5fbaf95d5d4fe18f9b04401fae84adbaf2238f78c1871dcadfde1a8$16$dbd7bd2153d79ff9$47334$2$00$2$00 |
 | 0 | 6.29000000.dat | $bitcoin$64$df4579769ff97a92cb815f8484e16e796df133e84ff392d56eb65399b69be57a$16$5f3ced39d11972bc$77315$2$00$2$00 |
 | 0 | 6.19445176.dat | $bitcoin$64$04ac3ea427bfa8ddb2c6e10199267cd338cc9b19e4e5ce0806f6078b312604bf$16$b09bc7e9b1c6087e$59659$2$00$2$00 |
+| 0 | 6.00000001.dat | $bitcoin$64$f6f277586ba584a35f1bcb5b54b5fadaf2fbde89c5f5231c6261b901fc00bc04$16$5c69a279abedaab7$123420$2$00$2$00 |
 | 0 | 6.00000000.dat | $bitcoin$64$cbd7fe1739ba5dbf965fa015bc4cb089649a56a9a0002b74ac0c1076bf81de40$16$2090fd216ae96fee$61090$2$00$2$00 |
 | 0 | 5.89290000.dat | $bitcoin$64$1d94364372d1cae4bfacbc1ac7722c2bf92a98de47ec2f8ac476119d45d40a60$16$ca471cd3a19b04ff$67917$2$00$2$00 |
 | 0 | 5.86332001.dat | $bitcoin$64$7095f9031c639640d11d86c0a8597556ae8c940fb3bbda7c1cd789c3fea8dc08$16$c738f48338155e0a$67219$2$00$2$00 |
 | 0 | 5.08877624.dat | $bitcoin$64$aef813b23f8577f617d5d4890c1d769c46cb492e519214eb8d85c6f1606b6b3b$16$de2b3bd38f902753$64425$2$00$2$00 |
 | 0 | 5.05538396.dat | $bitcoin$64$5b6312295d46f157526f818dd79e9caff8df36e7ae5977863ee6686d9b8069ff$16$e6405f8a7f5ae3c7$107430$2$00$2$00 |
+| 0 | 5.03448336.dat | $bitcoin$64$bb82ae81ae1d019dc32dab8a8d1a04d1c8f4b19a1bc58bd2fd16e292f6de2643$16$9ae24128aaf47ed8$171985$2$00$2$00 |
 | 0 | 4.85582600.dat | $bitcoin$64$41f22b8d40dc773fae1acacc0c10c5746e0bf8cac6cee1129ade3b3d49b99a9f$16$fef57fc288239116$130926$2$00$2$00 |
 | 0 | 4.82537042.dat | $bitcoin$64$fd1efeee395b9f5167ef5b2d40e6701164bd8fda6f055b21161f0f6b214cfdc5$16$32ddd688dd623687$35714$2$00$2$00 |
 | 0 | 4.38100000.dat | $bitcoin$64$0e7f3dd3368aa563848291d14059ca6b969fdc6567be670d93f982693c4a913b$16$df1b66a2e41c2eb3$35714$2$00$2$00 |
@@ -668,6 +688,7 @@ Enough coins for everyone<hr>
 | 0 | 3.85090000.dat | $bitcoin$64$895b386376c1ca9c1f8b440ea269eb4a772bcb4b47757c7708a03fd47a8ca3f2$16$d1d93a887220a49f$31249$2$00$2$00 |
 | 0 | 3.73979441.dat | $bitcoin$64$7c777ff6ca1be06757120c36eba39c7573a1154cf35277e4740f13b1b44504e4$16$24089973d01d5f0d$82925$2$00$2$00 |
 | 0 | 3.53383248.dat | $bitcoin$64$011f6abdec8e23032b7eb1298ed661fb9ebcd7388b3963b527a2923cce6800ea$16$e4aa72cd2bfa00cd$68014$2$00$2$00 |
+| 0 | 3.04914900.dat | $bitcoin$64$ca08895529a744876fd50988878114968326ffd95f1455192096abe35a8d5d3c$16$6fa6969ef51a170f$298530$2$00$2$00 |
 | 0 | 3.36894140.dat | $bitcoin$64$a1a3ef63fba5710a98208a9dffa57d64b2a2d69e475514a1ddd4d178bf04a171$16$4eb9d7607de381ac$71074$2$00$2$00 |
 | 0 | 3.17460240.dat | $bitcoin$64$23ca949be014591b7d6084702e54aebdebe5ee3658d7cb45cb2cc502c17ccce2$16$e167a26aaf9a728e$67219$2$00$2$00 |
 | 0 | 3.08715076.dat | $bitcoin$64$fbb855a7512b44a6c34c0e762c2844b1c5078a9bf175ccf894f6660660031ecd$16$b2703da18a5ac317$76979$2$00$2$00 |
@@ -685,6 +706,7 @@ Enough coins for everyone<hr>
 | 0 | 2.63049301.dat | $bitcoin$64$743fdef2fb02a380440324cfb90fc6dc4deb5e788063d10bf4708cd9e5a23265$16$9d004c2bee7de706$63894$2$00$2$00 |
 | 0 | 2.53794900.dat | $bitcoin$64$2ce3118fd2a87834b49b63916edd4935d89e905c2bedf6c97f19ff466b299b65$16$9480b99863bc4940$38489$2$00$2$00 |
 | 0 | 2.50000000.dat | $bitcoin$64$a64fe88a288fb7512b54d7dd64f9641fe2e70919f3c15c8dcc70a512aac166e6$16$dd272ec0ee200a78$77315$2$00$2$00 |
+| 0 | 2.45963000.dat | $bitcoin$64$23ca949be014591b7d6084702e54aebdebe5ee3658d7cb45cb2cc502c17ccce2$16$e167a26aaf9a728e$67219$2$00$2$00 |
 | 0 | 2.40000000.dat | $bitcoin$64$2f77476dd3fd9db01c9d645ea24ec05c5c8125166fc07bac4d8c147c2c84167d$16$35af01fbce5b5e5f$62313$2$00$2$00 |
 | 0 | 2.29597675.dat | $bitcoin$64$fa7064fb38bd3ae262b2d88d4ba62b4870b23ff326ba14ba60de551fab7a9327$16$460f24cf3825a045$34090$2$00$2$00 |
 | 0 | 2.28883133.dat | $bitcoin$64$534982bd75fd55de814558f847d48a8805300c9144b557b3f82cbac0ffc66398$16$f1f0b2aa64c3d426$37698$2$00$2$00 |
@@ -709,6 +731,7 @@ Enough coins for everyone<hr>
 | 0 | 1.44138096.dat | $bitcoin$64$44ed889592a8d7b9bf6c8b1ed8bd676ca69a63c866e04f0119c34c1a7a185446$16$9e9ebf3cbd7605d8$64337$2$00$2$00 |
 | 0 | 1.44124101.dat | $bitcoin$64$af049ff75a8d5c1214e252f3c926b7b63e20f78f07fd411ca04140f272e557ae$16$999bf4729b971c7e$67169$2$00$2$00 |
 | 0 | 1.39498354.dat | $bitcoin$64$65f0d344dcd7181ec223746a84f42b620e550a1019742f495fd76b2578523330$16$d699839d9729686b$60211$2$00$2$00 |
+| 0 | 1.21730733.dat | $bitcoin$64$24b4a225bbf86972233aec387401b536ef1fe333fd18cf15d13e8fe1b1acfbe2$16$7363b105beaf4028$36762$2$00$2$00 |
 | 0 | 1.09479390.dat | $bitcoin$64$51307c1824f9756c0542218c6c3054974e07dc5c58f8411173c12f7e938b5f10$16$0f088e5c4d1a0515$62055$2$00$2$00 |
 | 0 | 1.08795916.dat | $bitcoin$64$9de529051d808b5d34c679c43020a233e6b5161de2e85070127009d61e4c24c8$16$09792b4786f368cb$49019$2$00$2$00 |
 | 0 | 1.00103254.dat | $bitcoin$64$01f782c4a3a71e9da3af5f7fe3977f10e9216f239814a45148c0d58ea0b486bb$16$e0eb85213cc20ccc$65828$2$00$2$00 |
