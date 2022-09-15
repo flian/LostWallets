@@ -12,7 +12,7 @@ The hashes of the passwords [**here**](https://github.com/phrutis/LostWallets/bl
 Run: ```hashcat.exe -m 11300 -a 3 hash.txt ?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 7 --increment hash.txt -1 ?l?d ?l?l?l?l?1?1?1?1 prefix.txt -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 1 hash.txt WORDLIST.txt WORDLIST2.txt -D 2 -w 3 -S -o FOUND.txt```</br>
-Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=7 --increment-max=10 hash.txt ?a?a?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
+Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=3 --increment-max=7 hash.txt ?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Use your password search prefixes by mask or [dictionaries](https://www.weakpass.com/wordlist)</br>
 
 If you manage to find the password, write to me in telegram ```phrutis```</br>
@@ -25,9 +25,32 @@ You can search by yourself if you find the password you will get 50%</br>
 Or you can take part in a collective search<hr>
 
 # How to participate in a collective search:
-If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
+If you have a GPU and are willing to search 24/7.</br> 
+If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
 Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
-You will be connected to the server, they will give you an id and other information.
+
+Site Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
+DEMO Work and statistics:</br>
+Login: ```hunter```</br>
+Password: ```demo```</br>
+
+![wallet.dat](https://user-images.githubusercontent.com/82582647/190486957-23d04e0c-f708-403e-8b12-375770625b51.png)</br>
+
+![task](https://user-images.githubusercontent.com/82582647/190487238-6946f65b-3aad-45a4-885e-887b774d71bf.png)
+
+## How to connect a card to [**vast.ai**](https://vast.ai/console/create/)
+
+Step by Step [Instruction.docx](https://github.com/phrutis/LostWallets/blob/main/Others/Doc1.docx) (ru)
+
+```
+xasser/hashtopolis_agent_vastai:latest
+
+cd htpclient
+python3 hashtopolis.zip --url http://176.99.135.95/api/server.php --voucher WAhoGObp
+```
+
+## Windows 
+#### in developing
 
 ## The advantage of collective search:
 You will not go through combinations that have already been completed.</br>
@@ -36,10 +59,10 @@ The server controls all ranges and issues new ones.</br>
 You do not need to select the correct masks, hashes and more.</br>
 If the password is found, all participants will win and receive coins.
 
-### The terms of participation:
-25% Received by the partner (whose hash is in the table)</br>
-5% Organizers</br>
-70% is divided among all participants in % of ranges covered.</br>
+## The terms of participation:
+25% - Received by the partner (whose hash is in the table)</br>
+ 5% - Organizers</br>
+70% - is divided among all participants in % of ranges covered.</br>
 Enough coins for everyone<hr>
 
 
