@@ -40,13 +40,13 @@ Password: ```demo```</br>
 
 ## How to connect a card to [**vast.ai**](https://vast.ai/console/create/)
 
-Step by Step [Instruction.docx](https://github.com/phrutis/LostWallets/blob/main/Others/Doc1.docx) (ru)
+Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Others/manual%20hashtopolis%20vast.pdf)
 
 ```
 xasser/hashtopolis_agent_vastai:latest
 
 cd htpclient
-python3 hashtopolis.zip --url http://176.99.135.95/api/server.php --voucher WAhoGObp
+python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher CBt9iiIZ
 ```
 
 ## Windows 
