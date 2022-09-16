@@ -25,9 +25,12 @@ You can search by yourself if you find the password you will get 50%</br>
 Or you can take part in a collective search<hr>
 
 # How to participate in a collective search:
-If you have a GPU and are willing to search 24/7.</br> 
-If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
+If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
+
+
 Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+Enter your card and receive your voucher for joining the general search
+
 
 Site Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
 DEMO Work and statistics:</br>
