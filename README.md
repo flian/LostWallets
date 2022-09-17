@@ -30,13 +30,14 @@ If you have a GPU and are willing to search 24/7. If not, you can rent it at [**
 
 
 Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+Hunter address [**table**](https://github.com/phrutis/LostWallets/blob/main/Others/Table.md)
 
 Site Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
 DEMO Work and statistics:</br>
 Login: ```hunter```</br>
 Password: ```demo```</br>
 
-## Connect a card from [**vast.ai**](https://vast.ai/console/create/)
+## Connect a card to [**vast.ai**](https://vast.ai/console/create/)
 
 Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Others/manual%20hashtopolis%20vast.pdf)
 
@@ -113,7 +114,16 @@ If the password is found, all participants will win and receive coins.
 25% - Received by the partner (whose hash is in the table)</br>
  5% - Organizers</br>
 70% - is divided among all participants in % of ranges covered.</br>
-Enough coins for everyone<hr>
+
+For example, you searched for 3 days and stopped.</br>
+The password was picked up in 3-6 months from a wallet of 500 BTC.</br>
+The sum of 70% of the find of 350 BTC is divided by the number of combinations passed.</br>
+You will be paid % for your completed segment.</br>
+The more combinations you have completed, the higher your %</br>
+Make sure your address is in the [**table**](https://github.com/phrutis/LostWallets/blob/main/Others/Table.md).</br>
+In a collective search, everyone wins.</br>
+Enough coins for everyone
+<hr>
 
 
 ## Partner addresses 25%
