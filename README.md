@@ -36,7 +36,7 @@ DEMO Work and statistics:</br>
 Login: ```hunter```</br>
 Password: ```demo```</br>
 
-## Connect a card to [**vast.ai**](https://vast.ai/console/create/)
+## Connect a card from [**vast.ai**](https://vast.ai/console/create/)
 
 Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Others/manual%20hashtopolis%20vast.pdf)
 
