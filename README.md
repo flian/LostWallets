@@ -262,7 +262,6 @@ Enough coins for everyone
 | 116| 30.52501094.dat | [12ebtmV3wH9d2Jjg7zDyYJQxzDrWTjnGHm](https://www.blockchain.com/btc/address/12ebtmV3wH9d2Jjg7zDyYJQxzDrWTjnGHm) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 117 | 28.33194248.dat | [1DgndGwKyGB6gFwE26atwsEkrppGjuxAtW](https://www.blockchain.com/btc/address/1DgndGwKyGB6gFwE26atwsEkrppGjuxAtW) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 118 | 28.32844200.dat | [14MSmvaybM5G7HeobaGGXE4Yv2F9henmTJ](https://www.blockchain.com/btc/address/14MSmvaybM5G7HeobaGGXE4Yv2F9henmTJ) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
-| 119 | 28.12063817.dat | [1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9](https://www.blockchain.com/btc/address/1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 120 | 28.00001000.dat | [1PbHeg1WDosvuhApxbfQg3iFDQ2WW7Mttf](https://www.blockchain.com/btc/address/1PbHeg1WDosvuhApxbfQg3iFDQ2WW7Mttf) | 50% | :lock: | :three: | 09.06.2022 |
 | 121 | 27.03768216.dat | [1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5](https://www.blockchain.com/btc/address/1rhYqDz3WEbCSQM54bGguTnJkmLQwV3d5) | 50% | :lock: | :three: | 09.06.2022 |
 | 122 | 26.45955545.dat | [1LX27PZRjDyDngtUEqU79NHBT5Y2RYbKnH](https://www.blockchain.com/btc/address/1LX27PZRjDyDngtUEqU79NHBT5Y2RYbKnH) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
@@ -533,7 +532,6 @@ Enough coins for everyone
 | 116 | 30.52501094.dat | $bitcoin$64$900e470eb0894d25777f4bffdee32d4448a67adef818cc8284c0e40250582f0c$16$2416cac0d03f528e$17628$2$00$2$00 |
 | 117 | 28.33194248.dat | $bitcoin$64$9f1ffc74f78529bcfe1fd358791722e7960e369d437fd25f03f1e570f8028577$16$67fc69948af601e1$126704$2$00$2$00 |
 | 118 | 28.32844200.dat | $bitcoin$64$6486b1147d43d2106737ae7d549f04a8874c43d6fcf0b989b64b3bc1549c2691$16$cc047f3d832837bc$132920$2$00$2$00 |
-| 119 | 28.12063817.dat | $bitcoin$64$bcf883ce2bf5e8e38df49ceae92c946d4cc78614131d89365e11078423350bf7$16$8bbb805fa36b918e$63241$2$00$2$00 |
 | 120 | 28.00001000.dat | $bitcoin$64$3b5c5b0ddeebeb5697ab53e08b3a33073c51c2c1a93ce853ba7bc4a066d13b78$16$eba14dbeb5c79b04$37480$2$00$2$00 |
 | 121 | 27.03768216.dat | $bitcoin$64$023ebec32970c6ec9453b84cea7bc58e92240534408cc6ea4a22cff2c21d0132$16$ef7b10ba55248b66$132242$2$00$2$00 |
 | 122 | 26.45955545.dat | $bitcoin$64$9ea01148f9f851095c33bc452c34e2710c60ba684883065b48e6f0d7438ee8c7$16$d2393ef9cbf6cc1a$126275$2$00$2$00 |
