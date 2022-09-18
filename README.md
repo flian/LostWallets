@@ -30,6 +30,8 @@ If you have a GPU and are willing to search 24/7. If not, you can rent it at [**
 
 
 Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+Write your empty BTC address, get a voucher to connect to the server
+
 Hunter address [**table**](https://github.com/phrutis/LostWallets/blob/main/Others/Table.md)
 
 Server Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
@@ -45,7 +47,7 @@ Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Othe
 xasser/hashtopolis_agent_vastai:latest
 
 cd htpclient
-python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher CBt9iiIZ
+python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher (your voucher example: CBt9iiIZ)
 ```
 
 ## Windows 
@@ -72,7 +74,7 @@ In the console window, enter the command:</br>
 Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
 No token found! Please enter a voucher to register your agent:</br>
-```CBt9iiIZ```</br>
+Your voucher example: ```CBt9iiIZ```</br>
 Successfully registered!
 
 Add to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy), report your empty BTC address, an agent will be assigned to you.</br>
@@ -97,7 +99,7 @@ Download agent [hashtopolis.zip](http://walletdatuss.work/agents.php?download=1)
 Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
 No token found! Please enter a voucher to register your agent:</br>
-```CBt9iiIZ```</br>
+Your voucher example: ```CBt9iiIZ```</br>
 Successfully registered!
 
 Add to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy), report your empty BTC address, an agent will be assigned to you.</br>
