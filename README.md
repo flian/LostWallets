@@ -32,12 +32,12 @@ If you have a GPU and are willing to search 24/7. If not, you can rent it at [**
 Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
 Hunter address [**table**](https://github.com/phrutis/LostWallets/blob/main/Others/Table.md)
 
-Site Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
+Server Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
 DEMO Work and statistics:</br>
 Login: ```hunter```</br>
 Password: ```demo```</br>
 
-## Connect a card to [**vast.ai**](https://vast.ai/console/create/)
+## Connecting a GPU card from [**vast.ai**](https://vast.ai/console/create/)
 
 Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Others/manual%20hashtopolis%20vast.pdf)
 
