@@ -30,12 +30,12 @@ If you have a GPU and are willing to search 24/7. If not, you can rent it at [**
 
 
 Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
-Write your empty BTC address, get a voucher to connect to the server
+[**Write your empty BTC address, get a voucher to connect to the server**](https://t.me/+uJsWbjsN-485YTUy)
 
 Hunter address [**table**](https://github.com/phrutis/LostWallets/blob/main/Others/Table.md)
 
 Server Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
-DEMO Work and statistics:</br>
+Work task and statistics:</br>
 Login: ```hunter```</br>
 Password: ```demo```</br>
 
