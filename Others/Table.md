@@ -13,7 +13,7 @@
 | 11 | JJJJJJJ | 19dM21c5wY7aDRNN1ibH8rASM623XrfqdA | 19.09.2022 |
 | 12 | CPTO | bc1q70vll6mvu66ljcylcs3z7w4luw4g55mq7tqvv3 | 20.09.2022 |
 | 13 | Super | bc1qrmutlx9kdpt07lc98gfnga4ktkuv9ypkcu2t85 | 20.09.2022 |
-| 14 |  |  | 00.09.2022 |
+| 14 | David | 3PRUmmXT4ENNoUrLPcMrpuRvQotkCvDENE | 20.09.2022 |
 | 15 |  |  | 00.09.2022 |
 | 16 |  |  | 00.09.2022 |
 | 17 |  |  | 00.09.2022 |
