@@ -1,4 +1,4 @@
-**Find password get 50% balance**</br>
+# Find password get 50% balance
 
 ## How to search for a password
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
