@@ -11,7 +11,7 @@
 | 9 | iiiiiiiii | bc1qc3av35l4tj9x552xhr9e0mmzaj7xn86zp37rv0 | 18.09.2022 |
 | 10 | sam | 1Ghe7wGYb5hLFDfPReSreU4pooixSBGU3d | 18.09.2022 |
 | 11 | JJJJJJJ | 19dM21c5wY7aDRNN1ibH8rASM623XrfqdA | 19.09.2022 |
-| 12 |  |  | 00.09.2022 |
+| 12 | CPTO | bc1q70vll6mvu66ljcylcs3z7w4luw4g55mq7tqvv3 | 20.09.2022 |
 | 13 |  |  | 00.09.2022 |
 | 14 |  |  | 00.09.2022 |
 | 15 |  |  | 00.09.2022 |
