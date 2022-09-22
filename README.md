@@ -36,6 +36,8 @@ xasser/hashtopolis_agent_vastai:latest
 cd htpclient
 python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher YOUR VOUCHER
 ```
+When you join, let the group know about it.</br>
+You will be identified and connected to the task.</br>
 
 ## Windows 
 Download [Python](https://www.python.org/downloads/)</br>
