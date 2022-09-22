@@ -60,11 +60,19 @@ In the console window, enter the command:</br>
 Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
 No token found! Please enter a voucher to register your agent:</br>
-Your voucher example: ```CBt9iiIZ```</br>
-Successfully registered!
 
-Add to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy), report your empty BTC address, an agent will be assigned to you.</br>
-If you have any questions about connecting, please contact the group
+Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a ```Voucher```</br>
+
+**Enter your voucher**!</br>
+Successfully registered!</br>
+No task</br>
+No task
+
+When you join, let the group know about it.</br>
+You will be identified and connected to the task.</br>
+
+To reconnect, run:</br>
+```py .\hashtopolis.zip```</br>
 
 ## Linux
 
@@ -84,12 +92,20 @@ Download agent [hashtopolis.zip](http://walletdatuss.work/agents.php?download=1)
 ```py hashtopolis.zip```</br>
 Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
-No token found! Please enter a voucher to register your agent:</br>
-Your voucher example: ```CBt9iiIZ```</br>
-Successfully registered!
+No token found! Please enter a voucher to register your agent:</br></br>
 
-Add to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy), report your empty BTC address, an agent will be assigned to you.</br>
-If you have any questions about connecting, please contact the group
+Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a ```Voucher```</br>
+
+**Enter your voucher**!</br>
+Successfully registered!</br>
+No task</br>
+No task
+
+When you join, let the group know about it.</br>
+You will be identified and connected to the task.</br>
+
+To reconnect, run:</br>
+```py .\hashtopolis.zip```
 
 ## The advantage of collective search:
 You will not go through combinations that have already been completed.</br>
