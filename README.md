@@ -27,13 +27,14 @@ Password: ```demo```</br>
 
 ## Connecting a GPU card from [**vast.ai**](https://vast.ai/console/create/)
 
+Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a ```Voucher```</br>
 Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Others/manual%20hashtopolis%20vast.pdf)
 
 ```
 xasser/hashtopolis_agent_vastai:latest
 
 cd htpclient
-python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher (your voucher example: CBt9iiIZ)
+python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher YOUR VOUCHER
 ```
 
 ## Windows 
