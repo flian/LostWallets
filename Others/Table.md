@@ -1,5 +1,5 @@
-|   |  Hunter         | BTC Address    | Date           |
-|---|:----------------|----------------|----------------|
+|   |  Hunter           | BTC Address    | Date           |
+|---|:------------------|----------------|----------------|
 | 1 | RY | bc1qekczsg6zehrmla9znpxlp8mjl7ljhz6l0g9g8m | 16.09.2022 |
 | 2 | Hannah Kells | 1MXi7qtW3KzUG81mdqSJdRVCJGTMkheTKU | 16.09.2022 |
 | 3 | Ervings | bc1qje2p2thjg3x3reec0lr0k4p7qmjquadrxdydrw | 16.09.2022 |
