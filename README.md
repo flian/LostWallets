@@ -11,14 +11,36 @@
 You can search by [**YOURSELF**](https://github.com/phrutis/LostWallets/blob/main/Others/alonene.md) if you find the password you will get 50%</br>
 Or you can take part in a collective search<hr>
 
-# Collective search:
-If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
+# Collective search
+## How it works:
+```mermaid
+flowchart LR
 
+A[Hunter 1] -->|Voucher| T(Connecting)
+F[Hunter 2] -->|Voucher| H(Connecting)
+G[Hunter 3] -->|Voucher| U(Connecting)
+J[Hunter 4] -->|Voucher| M(Connecting)
+T[Connecting] --> C{Server}
+H[Connecting] --> C{Server}
+U[Connecting] --> C{Server}
+M[Connecting] --> C{Server}
+C -->|FOUND| D(Balance 500 BTC)
+D -->|25 %| E[125 BTC Partner wallet.dat]
+D -->|5 %| X[25 BTC Organisation]
+D -->|70 %| Y[370 BTC Hunters:]
+Y -->|40 %| W[148 BTC Hunters 1]
+Y -->|31 %| Z[114.7 BTC Hunters 2]
+Y -->|22 %| P[81.4 BTC Hunters 3]
+Y -->|7 %| S[25.9 BTC Hunters 4]
+
+```
+If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
 Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)
 
 Hunters [**Table and diagram**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)
 
-Server Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
+Server hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
+
 Work task and statistics:</br>
 Login: ```hunter```</br>
 Password: ```demo```</br>
