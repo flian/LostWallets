@@ -26,12 +26,12 @@ U[Connecting to your agent] <-->|Super Task| C{Server}
 M[Connecting to your agent] <-->|Super Task| C{Server}
 C -->|FOUND| D(Balance 12600 BTC)
 D -->|25 %| E[3150 BTC Partner wallet.dat]
-D -->|5 %| X[630 BTC Organisation]
+D -->|5 %| X[630 BTC Organizers]
 D -->|70 %| Y[8820 BTC Hunters:]
-Y -->|40 %| W[3528 BTC Hunters 1]
-Y -->|31 %| Z[2734.2 BTC Hunters 2]
-Y -->|22 %| P[1940.4 BTC Hunters 3]
-Y -->|7 %| S[617.4 BTC Hunters 4]
+Y -->|40 %| W[3528 BTC Hunter 1]
+Y -->|31 %| Z[2734.2 BTC Hunter 2]
+Y -->|22 %| P[1940.4 BTC Hunter 3]
+Y -->|7 %| S[617.4 BTC Hunter 4]
 
 ```
 If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
