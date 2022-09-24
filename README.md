@@ -47,7 +47,7 @@ Password: ```demo```</br>
 
 ## Connecting a GPU card from [**vast.ai**](https://vast.ai/console/create/)
 
-Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a ```Voucher```</br>
+Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a reusable ```Voucher```</br>
 
 Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Others/manual%20hashtopolis%20vast.pdf)
 
@@ -57,8 +57,8 @@ xasser/hashtopolis_agent_vastai:latest
 cd htpclient
 python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher YOUR VOUCHER
 ```
-When you join, let the group know about it.</br>
-You will be identified and connected to the task.</br>
+**When you connect, please let the group know!**</br>
+Your agent will be authorized and connected to the task.</br>
 
 ## Windows 
 Download [Python](https://www.python.org/downloads/)</br>
@@ -85,7 +85,7 @@ Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
 No token found! Please enter a voucher to register your agent:</br>
 
-Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a ```Voucher```</br>
+Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a reusable ```Voucher```</br>
 
 **Enter your voucher**!</br>
 
@@ -93,8 +93,8 @@ Successfully registered!</br>
 No task</br>
 No task
 
-When you join, let the group know about it.</br>
-You will be identified and connected to the task.</br>
+**When you connect, please let the group know!**</br>
+Your agent will be authorized and connected to the task.</br>
 
 Continue searching:</br>
 ```py .\hashtopolis.zip```</br>
@@ -134,8 +134,8 @@ Successfully registered!</br>
 No task</br>
 No task
 
-When you join, let the group know about it.</br>
-You will be identified and connected to the task.</br>
+**When you connect, please let the group know!**</br>
+Your agent will be authorized and connected to the task.</br>
 
 Continue searching:</br>
 ```py .\hashtopolis.zip```
