@@ -126,7 +126,7 @@ Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
 No token found! Please enter a voucher to register your agent:</br>
 
-Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a ```Voucher```</br>
+Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a reusable ```Voucher```</br>
 
 **Enter your voucher**!</br>
 
