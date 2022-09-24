@@ -16,7 +16,7 @@ If you have a GPU and are willing to search 24/7. If not, you can rent it at [**
 
 Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)
 
-Hunter address [**Table**](https://github.com/phrutis/LostWallets/blob/main/Others/Table.md)
+Hunters [**Table and diagram**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)
 
 Server Hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
 Work task and statistics:</br>
