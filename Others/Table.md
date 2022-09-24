@@ -23,7 +23,7 @@
 | 21 | Umkattown | 1AWUBf54pC7TtBLER3dHsFfBuHAiTbMF7b | 22.09.2022 |
 | 22 | Nakamoto | 34yTRAYPxPmt8xWUdknj6Y4WmNQCyYXyT7 | 22.09.2022 |
 | 23 | Boss | bc1qdt6xjufzu2jf552vmke0hs7j9vyqkuf0jxn2dm | 22.09.2022 |
-| 24 |  |  | 00.00.2022 |
+| 24 | Kripto Iisus | 15yX7niQ4JNiFsEV5uBqvixvMadgPMbZE3 | 24.00.2022 |
 | 25 |  |  | 00.00.2022 |
 | 26 |  |  | 00.00.2022 |
 | 27 |  |  | 00.00.2022 |
