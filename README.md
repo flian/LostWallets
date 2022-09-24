@@ -20,10 +20,10 @@ A[Hunter 1] -->|Voucher| T(Connecting)
 F[Hunter 2] -->|Voucher| H(Connecting)
 G[Hunter 3] -->|Voucher| U(Connecting)
 J[Hunter 4] -->|Voucher| M(Connecting)
-T[Connecting] --> C{Server}
-H[Connecting] --> C{Server}
-U[Connecting] --> C{Server}
-M[Connecting] --> C{Server}
+T[Connecting to your agent] <-->|Super Task| C{Server}
+H[Connecting to your agent] <-->|Super Task| C{Server}
+U[Connecting to your agent] <-->|Super Task| C{Server}
+M[Connecting to your agent] <-->|Super Task| C{Server}
 C -->|FOUND| D(Balance 12600 BTC)
 D -->|25 %| E[3150 BTC Partner wallet.dat]
 D -->|5 %| X[630 BTC Organisation]
