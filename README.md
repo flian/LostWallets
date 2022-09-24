@@ -96,7 +96,7 @@ No task
 When you join, let the group know about it.</br>
 You will be identified and connected to the task.</br>
 
-To reconnect, run:</br>
+Continue searching:</br>
 ```py .\hashtopolis.zip```</br>
 
 ## Linux
@@ -137,7 +137,7 @@ No task
 When you join, let the group know about it.</br>
 You will be identified and connected to the task.</br>
 
-To reconnect, run:</br>
+Continue searching:</br>
 ```py .\hashtopolis.zip```
 
 ## The advantage of collective search:
