@@ -96,8 +96,11 @@ No task
 **When you connect, please let the group know!**</br>
 Your agent will be authorized and connected to the task.</br>
 
+
+
 Continue searching:</br>
 ```py .\hashtopolis.zip```</br>
+![windows-countinue](https://user-images.githubusercontent.com/82582647/192131420-131554a9-2565-43ad-8f12-e6426eb33c92.png)
 
 ## Linux
 
