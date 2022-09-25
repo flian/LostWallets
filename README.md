@@ -63,8 +63,11 @@ Your agent will be authorized and connected to the task.</br>
 ## Windows 
 Download [Python](https://www.python.org/downloads/)</br>
 When installing the program, check the patch in Windows</br>
+![python path](https://user-images.githubusercontent.com/82582647/192131730-b6eac098-6581-4bbf-99f9-2c06cb929422.png)</br>
 We press Start, we write ```cmd```, we press the left key and drag it to the desktop.</br>
 We launch the cmd shortcut on the desktop, a window opens.</br>
+👉[Visual process console](https://github.com/phrutis/LostWallets/blob/main/Others/windows.md)
+
 We enter the commands:</br>
 ```py -m pip install --upgrade pip```</br>
 
@@ -98,7 +101,9 @@ Your agent will be authorized and connected to the task.</br>
 
 
 
-Continue searching:</br>
+Continue after stop:</br>
+```cd C:\Users\User\Downloads\CAT```</br>
+
 ```py .\hashtopolis.zip```</br>
 ![windows-countinue](https://user-images.githubusercontent.com/82582647/192131420-131554a9-2565-43ad-8f12-e6426eb33c92.png)
 
@@ -140,7 +145,9 @@ No task
 **When you connect, please let the group know!**</br>
 Your agent will be authorized and connected to the task.</br>
 
-Continue searching:</br>
+Continue after stop:</br>
+```cd C:\Users\User\Downloads\CAT```</br>
+
 ```py .\hashtopolis.zip```
 
 ## The advantage of collective search:
