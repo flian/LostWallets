@@ -47,18 +47,17 @@ Password: ```demo```</br>
 
 ## Connecting a GPU card from [**vast.ai**](https://vast.ai/console/create/)
 
-Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a reusable ```Voucher```</br>
-
 Step by Step [Instruction](https://github.com/phrutis/LostWallets/blob/main/Others/manual%20hashtopolis%20vast.pdf)
 
 ```
 xasser/hashtopolis_agent_vastai:latest
 
 cd htpclient
-python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher YOUR VOUCHER
+python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher start
 ```
-**When you connect, please let the group know!**</br>
-Your agent will be authorized and connected to the task.</br>
+:warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+ :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 ## Windows 
 Download [Python](https://www.python.org/downloads/)</br>
@@ -87,18 +86,16 @@ In the console window, enter the command:</br>
 Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
 No token found! Please enter a voucher to register your agent:</br>
-
-Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a reusable ```Voucher```</br>
-
-**Enter your voucher**!</br>
-
+```start```</br>
 Successfully registered!</br>
-No task</br>
-No task
+Collecting agent data...</br>
+Login successful!</br>
+Hashtopolis Server version: 0.12.0 ()</br>
+...
 
-**When you connect, please let the group know!**</br>
-Your agent will be authorized and connected to the task.</br>
-
+:warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+ :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 
 Continue after stop:</br>
@@ -133,17 +130,16 @@ Download agent [hashtopolis.zip](http://walletdatuss.work/agents.php?download=1)
 Please enter the url to the API of your Hashtopolis installation:</br>
 ```http://walletdatuss.work/api/server.php```</br>
 No token found! Please enter a voucher to register your agent:</br>
-
-Write in group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy) your empty BTC address and receive a reusable ```Voucher```</br>
-
-**Enter your voucher**!</br>
-
+```start```</br>
 Successfully registered!</br>
-No task</br>
-No task
+Collecting agent data...</br>
+Login successful!</br>
+Hashtopolis Server version: 0.12.0 ()</br>
+...
 
-**When you connect, please let the group know!**</br>
-Your agent will be authorized and connected to the task.</br>
+:warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+ :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 Continue after stop:</br>
 ```cd C:\Users\User\Downloads\CAT```</br>
