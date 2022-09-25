@@ -12,26 +12,46 @@ You can search by [**YOURSELF**](https://github.com/phrutis/LostWallets/blob/mai
 Or you can take part in a collective search<hr>
 
 # Collective search
+![diagram](https://user-images.githubusercontent.com/82582647/192157161-e88a1475-b909-4b58-beb4-c9214052cbfd.png)
+
 ## How it works:
 ```mermaid
 flowchart LR
 
-A[Hunter 1] -->|Voucher| T(Connecting)
-F[Hunter 2] -->|Voucher| H(Connecting)
-G[Hunter 3] -->|Voucher| U(Connecting)
-J[Hunter 4] -->|Voucher| M(Connecting)
-T[Connecting to your agent] <-->|Super Task| C{Server}
-H[Connecting to your agent] <-->|Super Task| C{Server}
-U[Connecting to your agent] <-->|Super Task| C{Server}
-M[Connecting to your agent] <-->|Super Task| C{Server}
+A[МАКСИМ] -->|Voucher| T(Connecting)
+F[It's me] -->|Voucher| H(Connecting)
+G[ie696] -->|Voucher| U(Connecting)
+J[cpto_node] -->|Voucher| M(Connecting)
+AA[Ervings] -->|Voucher| TT(Connecting)
+FF[RY] -->|Voucher| HH(Connecting)
+GG[K-Fed] -->|Voucher| UU(Connecting)
+JJ[First Last] -->|Voucher| MM(Connecting)
+AAA[N/A] -->|Voucher| TTT(Connecting)
+FFF[Leonid] -->|Voucher| HHH(Connecting)
+T[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+H[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+U[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+M[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+TT[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+HH[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+UU[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+MM[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+TTT[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+HHH[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
 C -->|FOUND| D(Balance 12600 BTC)
-D -->|25 %| E[3150 BTC Partner wallet.dat]
-D -->|5 %| X[630 BTC Organizers]
-D -->|70 %| Y[8820 BTC Hunters:]
-Y -->|40 %| W[3528 BTC Hunter 1]
-Y -->|31 %| Z[2734.2 BTC Hunter 2]
-Y -->|22 %| P[1940.4 BTC Hunter 3]
-Y -->|7 %| S[617.4 BTC Hunter 4]
+D -->|70%| Y[8820 BTC Hunters:]
+D -->|25%| E[3150 BTC Partner wallet.dat]
+D -->|5%| X[630 BTC Organizers]
+Y -->|27,3%| W[2407,8 BTC МАКСИМ]
+Y -->|22,5%| Z[1984,5 BTC It's me]
+Y -->|12,2%| P[1076,04 BTC ie696]
+Y -->|11,9%| S[1049,5 BTC cpto_node]
+Y -->|6,7%| WW[590,9 BTC Ervings]
+Y -->|4,9%| ZZ[432,1 BTC RY]
+Y -->|4,6%| PP[405,7 BTC K-Fed]
+Y -->|3%| SS[264,6 BTC First Last]
+Y -->|2,8%| WWW[246,9 BTC N/A]
+Y -->|2,6%| ZZZ[229,3 BTC Leonid]
 
 ```
 If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
