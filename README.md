@@ -169,6 +169,23 @@ Enough coins for everyone
 
 
 ## Frequently asked Questions
+
+**I am a miner and I want to search anonymously!**
+
+Connect your rigs to the server.</br>
+Write in telegram ```phrutis``` your empty BTC address and the numbers of your agents on the list.</br>
+An anonymous nickname will be created with your BTC addresses.</br>
+If the password is found, your % will be paid to your address<hr>
+
+**What guarantees that I will be paid when the password is found?**
+
+If you need guarantees look for yourself [**here**](https://github.com/phrutis/LostWallets/blob/main/Others/alonene.md), you will find 50% of yours guaranteed.</br>
+In a collective search, there is no way to guarantee that the participants are trustworthy.</br>
+If you know a way to guarantee it, let the group know about it and we'll discuss it.</br>
+I understand and appreciate the hunters who invest their money and GPU resources for our common victory.</br>
+In a collective search, it makes no logical sense to deceive the hunters.</br>
+There are many wallets, large sums, enough coins for everyone.<hr>
+
 **Are your wallets real?**</br>
 
 99% - YES</br>
