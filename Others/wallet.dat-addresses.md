@@ -8,7 +8,8 @@
 :seven: - 1BGYYSyPbs4YFDDudAVAULpNdkJQbYQpaS</br>
 :eight: - 1LcFtZjX3U8EX7pgYiawphmzyM9SYrq5z5</br>
 :nine: - 15sxxBRF2Lvutzf92UK2Jqzm4MzwkukFFc</br>
-:keycap_ten: - bc1qcqsdeyfygy8trg7gfyqz3x5nds06d9vmzftcka
+:keycap_ten: - bc1qcqsdeyfygy8trg7gfyqz3x5nds06d9vmzftcka</br>
+:one::one: - bc1qupjlf8e2k035zz9na6jylwcqlzewmdcqw2ma2e
 
 ## wallrt.dat address table
 
