@@ -35,7 +35,7 @@ Y -->|7 %| S[617.4 BTC Hunter 4]
 
 ```
 If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
-Join telegram group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)
+Join telegram group [**LostWallets**](https://t.me/+2niP9bQ8uu43MDg6)
 
 Hunters [**Table and diagram**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)
 
@@ -56,7 +56,7 @@ cd htpclient
 python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher start
 ```
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+2niP9bQ8uu43MDg6)</br>
  :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 ## Windows 
@@ -93,7 +93,7 @@ Hashtopolis Server version: 0.12.0 ()</br>
 ...
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+2niP9bQ8uu43MDg6)</br>
  :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 
@@ -137,7 +137,7 @@ Hashtopolis Server version: 0.12.0 ()</br>
 ...
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+uJsWbjsN-485YTUy)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+2niP9bQ8uu43MDg6)</br>
  :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 Continue after stop:</br>
@@ -162,7 +162,7 @@ The password was picked up in 3-6 months from a wallet of 500 BTC.</br>
 The sum of 70% of the find of 350 BTC is divided by the number of combinations passed.</br>
 You will be paid % for your completed segment.</br>
 The more combinations you have completed, the higher your %</br>
-Make sure your address is in the [**table**](https://github.com/phrutis/LostWallets/blob/main/Others/Table.md).</br>
+Make sure your address is in the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345).</br>
 In a collective search, everyone wins.</br>
 Enough coins for everyone
 <hr>
