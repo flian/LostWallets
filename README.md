@@ -18,16 +18,16 @@ Or you can take part in a collective search<hr>
 ```mermaid
 flowchart LR
 
-A[МАКСИМ] -->|Voucher| T(Connecting)
-F[It's me] -->|Voucher| H(Connecting)
-G[ie696] -->|Voucher| U(Connecting)
-J[cpto_node] -->|Voucher| M(Connecting)
-AA[Ervings] -->|Voucher| TT(Connecting)
-FF[RY] -->|Voucher| HH(Connecting)
-GG[K-Fed] -->|Voucher| UU(Connecting)
-JJ[First Last] -->|Voucher| MM(Connecting)
-AAA[N/A] -->|Voucher| TTT(Connecting)
-FFF[Leonid] -->|Voucher| HHH(Connecting)
+A[МАКСИМ-114] -->|Voucher| T(Connecting)
+F[It's me-118] -->|Voucher| H(Connecting)
+G[ie696-125] -->|Voucher| U(Connecting)
+J[cpto_node-127] -->|Voucher| M(Connecting)
+AA[Ervings-082] -->|Voucher| TT(Connecting)
+FF[RY-214] -->|Voucher| HH(Connecting)
+GG[K-Fed-219] -->|Voucher| UU(Connecting)
+JJ[First Last-029] -->|Voucher| MM(Connecting)
+AAA[N/A-105] -->|Voucher| TTT(Connecting)
+FFF[Leonid-231] -->|Voucher| HHH(Connecting)
 T[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
 H[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
 U[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
@@ -42,16 +42,16 @@ C -->|FOUND| D(Balance 12600 BTC)
 D -->|70%| Y[8820 BTC Hunters:]
 D -->|25%| E[3150 BTC Partner wallet.dat]
 D -->|5%| X[630 BTC Organizers]
-Y -->|27,3%| W[2407,8 BTC МАКСИМ]
-Y -->|22,5%| Z[1984,5 BTC It's me]
-Y -->|12,2%| P[1076,04 BTC ie696]
-Y -->|11,9%| S[1049,5 BTC cpto_node]
-Y -->|6,7%| WW[590,9 BTC Ervings]
-Y -->|4,9%| ZZ[432,1 BTC RY]
-Y -->|4,6%| PP[405,7 BTC K-Fed]
-Y -->|3%| SS[264,6 BTC First Last]
-Y -->|2,8%| WWW[246,9 BTC N/A]
-Y -->|2,6%| ZZZ[229,3 BTC Leonid]
+Y -->|27,3%| W[2407,8 BTC МАКСИМ-114]
+Y -->|22,5%| Z[1984,5 BTC It's me-118]
+Y -->|12,2%| P[1076,04 BTC ie696-125]
+Y -->|11,9%| S[1049,5 BTC cpto_node-127]
+Y -->|6,7%| WW[590,9 BTC Ervings-082]
+Y -->|4,9%| ZZ[432,1 BTC RY-214]
+Y -->|4,6%| PP[405,7 BTC K-Fed-219]
+Y -->|3%| SS[264,6 BTC First Last-029]
+Y -->|2,8%| WWW[246,9 BTC N/A-105]
+Y -->|2,6%| ZZZ[229,3 BTC Leonid-231]
 
 ```
 If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
