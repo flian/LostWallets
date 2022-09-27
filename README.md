@@ -28,16 +28,16 @@ GG[K-Fed-219] -->|Voucher| UU(Connecting)
 JJ[First Last-029] -->|Voucher| MM(Connecting)
 AAA[N/A-105] -->|Voucher| TTT(Connecting)
 FFF[Leonid-231] -->|Voucher| HHH(Connecting)
-T[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-H[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-U[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-M[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-TT[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-HH[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-UU[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-MM[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-TTT[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
-HHH[Connecting to your agent] <-->|Super Task| C{Server http://walletdatuss.work}
+T[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+H[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+U[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+M[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+TT[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+HH[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+UU[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+MM[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+TTT[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
+HHH[Connecting to your agent] <-->|Task| C{Server http://walletdatuss.work}
 C -->|FOUND| D(Balance 12600 BTC)
 D -->|70%| Y[8820 BTC Hunters:]
 D -->|25%| E[3150 BTC Partner wallet.dat]
