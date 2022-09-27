@@ -89,7 +89,7 @@ We launch the cmd shortcut on the desktop, a window opens.</br>
 We enter the commands:</br>
 ```py -m pip install --upgrade pip```</br>
 
-```py -m pip install requests```</br>
+```py pip install requests```</br>
 
 ```py -m pip install psutil```</br>
 
