@@ -89,9 +89,9 @@ We launch the cmd shortcut on the desktop, a window opens.</br>
 We enter the commands:</br>
 ```py -m pip install --upgrade pip```</br>
 
-```pip install requests```</br>
+```py -m pip install requests```</br>
 
-```pip install psutil```</br>
+```py -m pip install psutil```</br>
 
 Download agent [hashtopolis.zip](http://walletdatuss.work/agents.php?download=1)
 
