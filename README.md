@@ -55,7 +55,7 @@ Y -->|2,6%| ZZZ[229,3 BTC Leonid-231]
 
 ```
 If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
-Join telegram group [**LostWallets**](https://t.me/+2niP9bQ8uu43MDg6)
+Join telegram group [**LostWallets**](https://t.me/brutedat)
 
 Hunters [**Table and diagram**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)
 
@@ -76,7 +76,7 @@ cd htpclient
 python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher start
 ```
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+2niP9bQ8uu43MDg6)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/brutedat)</br>
  :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 ## Windows 
@@ -113,7 +113,7 @@ Hashtopolis Server version: 0.12.0 ()</br>
 ...
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+2niP9bQ8uu43MDg6)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/brutedat)</br>
  :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 
@@ -157,7 +157,7 @@ Hashtopolis Server version: 0.12.0 ()</br>
 ...
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
-📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+2niP9bQ8uu43MDg6)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/brutedat)</br>
  :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
 
 Continue after stop:</br>
