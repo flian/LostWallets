@@ -194,7 +194,7 @@ Enough coins for everyone
 
 You need to download and install the old version of nvidia driver:</br>
 For Linux [455.23](https://ru.download.nvidia.com/XFree86/Linux-x86_64/455.23.04/NVIDIA-Linux-x86_64-455.23.04.run)</br>
-For Windows x64 [456.38](https://ru.download.nvidia.com/Windows/456.38/456.38-desktop-win10-64bit-international-dch-whql.exe)</hr>
+For Windows x64 [456.38](https://ru.download.nvidia.com/Windows/456.38/456.38-desktop-win10-64bit-international-dch-whql.exe)<hr>
 
 **I am a miner and I want to search anonymously!**
 
