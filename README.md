@@ -190,6 +190,12 @@ Enough coins for everyone
 
 ## Frequently asked Questions
 
+**I have frozen the process on the benchmark. What to do?**
+
+For CUDA 11.1 you need driver version >= 455.23</br>
+See [**hire**](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#cuda-major-component-versions), Download for linux [hire](https://ru.download.nvidia.com/XFree86/Linux-x86_64/455.23.04/NVIDIA-Linux-x86_64-455.23.04.run)</br>
+In other words, there's nothing hashcat can do about this. PTX 7.1 is simply not compatible with the 450.x drivers.</hr>
+
 **I am a miner and I want to search anonymously!**
 
 Connect your rigs to the server.</br>
