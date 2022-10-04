@@ -57,7 +57,7 @@ Y -->|2,6%| ZZZ[229,3 BTC Leonid-231]
 If you have a GPU and are willing to search 24/7. If not, you can rent it at [**vast.ai**](https://vast.ai/console/create/)</br>
 Join telegram group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)
 
-Hunters [**Table and diagram**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)
+Hunters [**Table and diagram**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231)
 
 Server hashtopolis [walletdatuss.work](http://walletdatuss.work/)</br>
 
