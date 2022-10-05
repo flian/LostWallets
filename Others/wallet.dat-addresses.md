@@ -13,8 +13,8 @@
 :one::two: - 12mKGs86wm8SH1cERe8YgCKTGFQX88aVWK
 
 ⚠️ - Suspicious (there are duplicate hashes)</br>
-:recycle: - Suspicious iterations hashing
-
+:recycle: - Suspicious iterations hashing</br>
+🚀 - High speed
 
 ## wallet.dat addresses TABLE
 
@@ -30,7 +30,7 @@
 | 1545.dat | [12yqUYtcCvDgiDgzJTT7DsSCoSifwYavhH](https://www.blockchain.com/btc/address/12yqUYtcCvDgiDgzJTT7DsSCoSifwYavhH) + [440](https://www.blockchain.com/btc/address/1PUfK6ecmFiV1sf7TppFfdCsTZw6PyK8Xu) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 1500.dat | [15 addresses](https://github.com/phrutis/LostWallets/blob/main/Others/1500.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 1434.80211957.dat | [1D6iTqvbgcqenbkKNsFsi9zN21KH4KPPEa](https://www.blockchain.com/btc/address/1D6iTqvbgcqenbkKNsFsi9zN21KH4KPPEa) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
-| 1240.00169821.dat | [1FmLMbBLwJrnm3giK69WtKrH9yQZqecDjD](https://www.blockchain.com/btc/address/1FmLMbBLwJrnm3giK69WtKrH9yQZqecDjD) + [420](https://www.blockchain.com/btc/address/1DEfMuUGRhvoQE7cxgds3nYjRZzzhfJ9jc) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 🚀1240.00169821.dat | [1FmLMbBLwJrnm3giK69WtKrH9yQZqecDjD](https://www.blockchain.com/btc/address/1FmLMbBLwJrnm3giK69WtKrH9yQZqecDjD) + [420](https://www.blockchain.com/btc/address/1DEfMuUGRhvoQE7cxgds3nYjRZzzhfJ9jc) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 1128.77038444.dat | [12At4GGP8J5p4MtdjNy1SPSkqKEM1mw2FS](https://www.blockchain.com/btc/address/12At4GGP8J5p4MtdjNy1SPSkqKEM1mw2FS) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 875.00062957.dat | [16mEzobs4wQPuAMq1C8QSQafcDHvzczVcs](https://www.blockchain.com/btc/address/16mEzobs4wQPuAMq1C8QSQafcDHvzczVcs) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 861.87860297.dat | [15mkHA8s76bk3Z8ohxF4FSwui1Xs8dGxvH](https://www.blockchain.com/btc/address/15mkHA8s76bk3Z8ohxF4FSwui1Xs8dGxvH) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
