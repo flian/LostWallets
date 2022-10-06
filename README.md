@@ -2,8 +2,6 @@
 
 ![wallet.dat](https://user-images.githubusercontent.com/82582647/190867530-275ae6ad-eb78-43f1-9600-f5628739ed05.png)</br>
 
-- [**wallet.dat (273) - Addresses Table**](https://github.com/phrutis/LostWallets/blob/main/Others/wallet.dat-addresses.md)
-- [**wallet.dat (273) - HASHES Table**](https://github.com/phrutis/LostWallets/blob/main/Others/hashes.md)
 - [**wallet.dat - Password Hints**](https://github.com/phrutis/LostWallets/blob/main/Others/Hints.txt)
 - [**Fake wallet.dat**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
 - [**Frequently asked Questions**](https://github.com/phrutis/LostWallets#frequently-asked-questions)
