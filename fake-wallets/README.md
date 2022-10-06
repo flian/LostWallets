@@ -1,6 +1,7 @@
 
 ![error](https://user-images.githubusercontent.com/82582647/172431915-11fbdd97-994a-4d97-860d-636d33e6bfb9.png)</br></br>
 **Wallets are checked in detail, but fakes also occur.**</br>
+Here are the files that did not pass the test - fakes
 ### Table of fake wallet.dat</br>
 
 |   |  Wallet name    | Address     |  | Password|
