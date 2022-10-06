@@ -235,6 +235,7 @@ Enough coins for everyone
 | 356.31423916.dat | [112imq6hQuz4JgRH4C8mC437UnZbfN9QKh](https://www.blockchain.com/btc/address/112imq6hQuz4JgRH4C8mC437UnZbfN9QKh) | 50% | :lock: | :one::two: | 06.10.2022 |
 | 340.00283740.dat | [1JqPFnGPhHhy54zJKmC1MPiczzgFjCmzE9](https://www.blockchain.com/btc/address/1JqPFnGPhHhy54zJKmC1MPiczzgFjCmzE9) | 50% | :lock: | :one: | 09.06.2022 |
 | 319.00053581.dat | [1FJBeYLRArReqVTiqwYTEc9hAfypGx8MyN](https://www.blockchain.com/btc/address/1FJBeYLRArReqVTiqwYTEc9hAfypGx8MyN) | 50% | :lock: | :one: | 09.06.2022 |
+| 304.00000000.dat | [119](https://www.blockchain.com/btc/address/1FJBeYLRArReqVTiqwYTEc9hAfypGx8MyN) + [143](https://www.blockchain.com/btc/address/1Lu3DfwHBpygF8JTtq5s8UWwF4hFEH1XnF) + [41](https://www.blockchain.com/btc/address/19d1HwG2KJhGnp3dwuenXsVncLupf3j7Mm)| 50% | :lock: | :one::three: | 06.10.2022 |
 | 300.00055278.dat | [1LbvdyYr5KH8fZhXJ7txBr1RjoDnzhQEqY](https://www.blockchain.com/btc/address/1LbvdyYr5KH8fZhXJ7txBr1RjoDnzhQEqY) | 50% | :lock: | :one: | 09.06.2022 |
 | 289.00054731.dat | [1LWGFqGfEJEp4yxrzsbrJCmwaLjDqvjVLd](https://www.blockchain.com/btc/address/1LWGFqGfEJEp4yxrzsbrJCmwaLjDqvjVLd) | 50% | :lock: | :one::two: | 06.10.2022 |
 | 285.69972581.dat | [12oVc6JZMkLSZvain1Pkf2Xuui1zcdoHiM](https://www.blockchain.com/btc/address/12oVc6JZMkLSZvain1Pkf2Xuui1zcdoHiM) | 50% | :lock: | :one::two: | 06.10.2022 |
@@ -528,6 +529,7 @@ Enough coins for everyone
 | 356.31423916.dat | $bitcoin$64$5a308dde4615751bbf04d3a0879f0af72a547ac66bbbd367a984fa10a6b5f25a$16$88141e43ff17834d$23778$2$00$2$00 |
 | 340.00283740.dat | $bitcoin$64$173aabf5927d86a1f9c34a59d9cd708c9d62fc181a90cf0f1b63e4b459981ac2$16$1d372be16c465eb6$131578$2$00$2$00 |
 | 319.00053581.dat | $bitcoin$64$3e9bcabc966d7870f4ac263a2cb1efc2400644a917113c772375e588ecead5b1$16$18beed5b1565a5e5$47871$2$00$2$00 |
+| 304.00000000.dat | $bitcoin$64$3885dc51ebebdad7a935bd2c46271912006c58bc51066ac91fda8e265dafc281$16$fe4883a48058c6f9$18652$2$00$2$00 |
 | 300.00055278.dat | $bitcoin$64$eace1c7e8662942150848fdbefbc83070bbc8c3a18d2c29b5132acb2c3f54f24$16$dd7d5c0aa12e709f$35211$2$00$2$00 |
 | 289.00054731.dat | $bitcoin$64$a32b3f6a10fb0e58c552b26136173be6390fc408fdb2135bd226b9240b9502ae$16$e7abffa5fef97702$23172$2$00$2$00 |
 | 285.69972581.dat | $bitcoin$64$205b6841c44d490593120aa337a0e94bc9f09c48d8a1276bea2c139397bbc906$16$a9e621d109c39ee5$22622$2$00$2$00 |
