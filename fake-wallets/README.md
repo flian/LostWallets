@@ -13,7 +13,7 @@ Here are the files that did not pass the test - fakes
 | 5 | 28.12063817.dat | [1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9](https://www.blockchain.com/btc/address/1ELCrM2FMXePtsGLRbcqAdhj61EUGmUtK9) | fake | nelikevin.vunderg@yahoo.comneli |
 | 6 | 14.09013974.dat | [1GDcVTrZNhVFt7pEnwvHfepoth6mqHVVvq](https://www.blockchain.com/btc/address/1GDcVTrZNhVFt7pEnwvHfepoth6mqHVVvq) | fake | :lock: |
 | 7 | 11.26828169.dat | [1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47](https://www.blockchain.com/btc/address/1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47)  | fake | :lock: |
-
+| 8 | 51.99952188.dat | [12DE6ff6gxLA1JfV7eaGG4ehUUUpZMo8Bo](https://www.blockchain.com/btc/address/12Bki9QAzEwBiuZDRrvPFyc736wPZKMRQt) | fake | :lock: |
 
 |    | :arrow_up: Wallet password hash by numbers from the table above :arrow_up: |
 |:---|:----------------------------------------------------------------------------------------|
@@ -24,3 +24,4 @@ Here are the files that did not pass the test - fakes
 | 5 | $bitcoin$64$bcf883ce2bf5e8e38df49ceae92c946d4cc78614131d89365e11078423350bf7$16$8bbb805fa36b918e$63241$2$00$2$00 |
 | 6 | $bitcoin$64$f83d2783f238d5fde0e082e20686ff85cb92bb0737da214e2e39fd61b828bf6c$16$adfbb9cfa83e9cf6$135318$2$00$2$00 |
 | 7 | $bitcoin$64$f02e9fa9c5d3379e4cd8ee5e5e2d8683d323dbd644a910cb61f0833a7a58cacb$16$6df848e467dd34c5$142367$2$00$2$00 |
+| 8 | $bitcoin$64$49aa9a07b86a9ba3f29f847b7c4d58e581137ebea7e50414c142c05dd942ac28$16$ea58017c72d4a60f$19929$2$00$2$00 |
