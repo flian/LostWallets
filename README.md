@@ -307,7 +307,6 @@ Enough coins for everyone
 | 95 | 55.98541641.dat | [24.98](https://www.blockchain.com/btc/address/12aQarQixd94FZN1Uz4HppAmLeR9hVyCAG) + [22](https://www.blockchain.com/btc/address/1By1d5W54RakkHq75xAjwUvuTEmjCWpaDA) + [9](https://www.blockchain.com/btc/address/1BEvx6WGSR4i7JSawZUr7zWQLcJnLqauBV)| 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 96 | 52.55001760.dat | [13KKv3ywwJ5WYovLgiCAaqpCVuMDEF6oxo](https://www.blockchain.com/btc/address/13KKv3ywwJ5WYovLgiCAaqpCVuMDEF6oxo) | 50% | :lock: | :one: | 09.06.2022 |
 | 97 | 52.08001094.dat | [15Ybt9WjCF5ABAZ1GjFVTjzV3dJH5f9USh](https://www.blockchain.com/btc/address/15Ybt9WjCF5ABAZ1GjFVTjzV3dJH5f9USh) | 50% | :lock: | :one: | 09.06.2022 |
-| 98 | 51.99952188.dat | [12DE6ff6gxLA1JfV7eaGG4ehUUUpZMo8Bo](https://www.blockchain.com/btc/address/12Bki9QAzEwBiuZDRrvPFyc736wPZKMRQt) | 50% | :lock: | :keycap_ten: | 09.09.2022 |
 | 99 | 50.43201094.dat | [1QFDAGXRkhNYfx2mHEu81QH8dAj4go4A8d](https://www.blockchain.com/btc/address/1QFDAGXRkhNYfx2mHEu81QH8dAj4go4A8d) | 50% | :lock: | :one: | 09.06.2022 |
 | 100 | ♻️50.18338758.dat | [1NyEeyXu8ydNw67e3ZTUmkwQJ8QNd1o3cF](https://www.blockchain.com/btc/address/1NyEeyXu8ydNw67e3ZTUmkwQJ8QNd1o3cF) | 50% | :lock: | :three: | 09.06.2022 |
 | 101 | 🐢50.05770000.dat | [1cogeR1nG6VwHeAQGc38EvhLsaDJgLfkn](https://www.blockchain.com/btc/address/1cogeR1nG6VwHeAQGc38EvhLsaDJgLfkn) | 50% | :lock: | :keycap_ten: | 14.09.2022 |
@@ -599,7 +598,6 @@ Enough coins for everyone
 | 95 | 55.98541641.dat | $bitcoin$64$98ccb3180b6e9f56b5d404fbe3f6539a8299726327c801e5ff958a7fbeeeea3e$16$6fedf80f93e23343$27974$2$00$2$00 |
 | 96 | 52.55001760.dat | $bitcoin$64$a0af3fa5006030e0edce5bf0931bebe7e0b27a694d314a68790d21347d79a657$16$2142112a50c1e140$73529$2$00$2$00 |
 | 97 | 52.08001094.dat | $bitcoin$64$b1ed5af135a124b3041d79bb43074ae1054d3476693194d55d59c70252df19d6$16$aea459993c7600fe$38193$2$00$2$00 |
-| 98 | 51.99952188.dat | $bitcoin$64$49aa9a07b86a9ba3f29f847b7c4d58e581137ebea7e50414c142c05dd942ac28$16$ea58017c72d4a60f$19929$2$00$2$00 |
 | 99 | 50.43201094.dat | $bitcoin$64$b4ec55497c544b4e6a7435fb6f30205c2baf86c9f533da2bbfa1e6f9fabdf330$16$3795a68bc27c5915$35537$2$00$2$00 |
 | 100 | 50.18338758.dat | $bitcoin$64$f3c90b573111e06ff0f96ebf32921f5f3dd10ba219f391ab0fcc1adadd3e2000$16$9809070f76fa92c4$60692$2$00$2$00 |
 | 101 | 50.05770000.dat | $bitcoin$64$5b5cd64cd6dabcf4efd1e91b7ec40ae0ac20efe0a51b2084599f40377e932182$16$ae03f007c6772aca$293209$2$00$2$00 |
