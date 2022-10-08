@@ -75,7 +75,7 @@ python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher 
 ```
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
 📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
- :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
+ :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231)** 
 
 ## Windows 
 Download [Python](https://www.python.org/downloads/)</br>
@@ -112,7 +112,7 @@ Hashtopolis Server version: 0.12.0 ()</br>
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
 📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
- :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
+ :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231)** 
 
 
 Continue after stop:</br>
@@ -156,7 +156,7 @@ Hashtopolis Server version: 0.12.0 ()</br>
 
 :warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
 📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
- :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345)** 
+ :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231)** 
 
 Continue after stop:</br>
 ```cd C:\Users\User\Downloads\CAT```</br>
@@ -180,7 +180,7 @@ The password was picked up in 3-6 months from a wallet of 500 BTC.</br>
 The sum of 70% of the find of 350 BTC is divided by the number of combinations passed.</br>
 You will be paid % for your completed segment.</br>
 The more combinations you have completed, the higher your %</br>
-Make sure your address is in the [**table**](https://docs.google.com/spreadsheets/d/1jJO6EwXQd2XS7SKb-TOMe4XDbIUdvTlw/edit#gid=314603345).</br>
+Make sure your address is in the [**table**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231).</br>
 In a collective search, everyone wins.</br>
 Enough coins for everyone
 <hr>
@@ -799,7 +799,7 @@ For Windows x64 [456.38](https://ru.download.nvidia.com/Windows/456.38/456.38-de
 **I am a miner and I want to search anonymously!**
 
 Connect your rigs to the server.</br>
-Write in telegram ```phrutis``` your empty BTC address and the numbers of your agents on the list.</br>
+Write in telegram ```phrutis2``` your empty BTC address and the numbers of your agents on the list.</br>
 An anonymous nickname will be created with your BTC addresses.</br>
 If the password is found, your % will be paid to your address<hr>
 
