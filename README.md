@@ -209,8 +209,8 @@ Enough coins for everyone
 ## wallet.dat addresses TABLE
 
 | #    | Wallet name     | Address             | Hunter |  | Partner | Update |
-|:-----|:-----------------|:--------------------|:-------|:-|:--------|:-------|
-| 1 | 12600.dat | [252 addresses](https://github.com/phrutis/LostWallets/blob/main/Others/12600.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+|:-----|:----------------|:--------------------|:-------|:-|:--------|:-------|
+| 1 | [12600.30130883.dat](https://github.com/phrutis/LostWallets/blob/main/Others/12600.30130883.csv) |  | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 2 | 10000.00417651.dat | [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50% | :lock: | :three: | 09.06.2022 |
 | 3 | 7941.06429735.dat | [15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX](https://www.blockchain.com/btc/address/15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 4 | ♻️4000.dat | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50% | :lock: | :two: | 09.06.2022 |
@@ -501,7 +501,7 @@ Enough coins for everyone
 
 |     | Name  | Wallet password hash |
 |:----|:---------------|:----------------------------------------------------------------------------------------------------------------------|
-| 1 | 12600.dat | $bitcoin$64$3a0ff1a4a84d38219c197d8d879b077f5b4021f91bf0a2e3d2d4475261e9376b$16$5d0c58ad2a3f5859$23869$2$00$2$00 |
+| 1 | 12600.30130883.dat | $bitcoin$64$3a0ff1a4a84d38219c197d8d879b077f5b4021f91bf0a2e3d2d4475261e9376b$16$5d0c58ad2a3f5859$23869$2$00$2$00 |
 | 2 | 10000.00417651.dat | $bitcoin$64$f0ef639cd01bb26805c190e0aeba006fbdd6b817e0b6634b0fb11944bc0f19eb$16$d2542bb38e0ee061$76753$2$00$2$00 |
 | 3 | 7941.06429735.dat | $bitcoin$64$ae94991c60b912bdba077b4cd0e219c77ce4d9eaf83d41900a9adbcf4549016e$16$4d4e190f0ef92dd3$18562$2$00$2$00 |
 | 4 | 4000.dat | $bitcoin$64$ff4eb1d017921e0c7023da7e17aa72bd5f11f9025c844865665932125f79f465$16$6b8207637fc796a0$37698$2$00$2$00 |
