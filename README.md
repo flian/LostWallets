@@ -799,7 +799,7 @@ For Windows x64 [456.38](https://ru.download.nvidia.com/Windows/456.38/456.38-de
 **I am a miner and I want to search anonymously!**
 
 Connect your rigs to the server.</br>
-Write in telegram ```phrutis2``` your empty BTC address and the numbers of your agents on the list.</br>
+Write in telegram ```phrutis``` your empty BTC address and the numbers of your agents on the list.</br>
 An anonymous nickname will be created with your BTC addresses.</br>
 If the password is found, your % will be paid to your address<hr>
 
