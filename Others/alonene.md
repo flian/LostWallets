@@ -12,14 +12,14 @@ Run: ```hashcat.exe -m 11300 -a 1 hash.txt WORDLIST.txt WORDLIST2.txt -D 2 -w 3 
 Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=3 --increment-max=7 hash.txt ?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Use your password search prefixes by mask or [dictionaries](https://www.weakpass.com/wordlist)</br>
 
-If you manage to find the password, write to me in telegram ```phrutis2```</br>
+If you manage to find the password, write to me in telegram ```phrutis```</br>
 Do not write me questions, look for answers on the [forum](https://hashcat.net/forum/)</br>
 
 
 **If I find. What are the guarantees of paying me 50% ?**</br>
 
 If you find the hash password.</br>
-Write to me in telegram ```phrutis2```</br>
+Write to me in telegram ```phrutis```</br>
 After agreeing, and receiving your BTC address from you.</br>
 Sending coins to 3 addresses will be prepared.</br>
 Your address is 50% 1......?</br>
