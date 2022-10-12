@@ -163,6 +163,56 @@ Continue after stop:</br>
 
 ```py .\hashtopolis.zip```
 
+
+## Hiveos
+
+nvidia-driver-update --force
+
+sudo apt update</br>
+sudo apt-get update</br>
+sudo apt install git</br>
+sudo apt -y install nvidia-opencl-dev</br>
+sudo apt-get install python3-pip</br>
+sudo -H python3 -m pip install psutil</br>
+sudo -H pip3 install requests</br>
+
+sudo mkdir CAT</br>
+cd CAT</br>
+sudo aria2c http://walletdatuss.work/agents.php?download=1
+
+```python3 hashtopolis.zip```</br>
+Please enter the url to the API of your Hashtopolis installation:</br>
+```http://walletdatuss.work/api/server.php```</br>
+No token found! Please enter a voucher to register your agent:</br>
+```start```</br>
+Successfully registered!</br>
+Collecting agent data...</br>
+Login successful!</br>
+Hashtopolis Server version: 0.12.0 ()</br>
+...
+
+:warning: After connecting, find your agent at the end of the [**list of agents**](http://walletdatuss.work/agents.php)</br>
+📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
+:white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231)** 
+
+	
+```	
+если надо увеличить раздел на весь диск
+
+sudo fdisk /dev/sda
+p   <ENTER>
+выбираем раздел Linux ( к примеру /dev/sda4 )
+d   <ENTER>
+4   <ENTER>
+n   <ENTER>
+4   <ENTER>
+<ENTER>
+<ENTER>
+n   <ENTER>
+w   <ENTER> 
+resize2fs /dev/sda4
+```
+
 ## The advantage of collective search:
 You will not go through combinations that have already been completed.</br>
 Many lone hunters very often make mistakes.</br>
