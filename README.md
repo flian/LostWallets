@@ -166,8 +166,6 @@ Continue after stop:</br>
 
 ## Hiveos
 
-nvidia-driver-update --force
-
 sudo apt update</br>
 sudo apt-get update</br>
 sudo apt install git</br>
@@ -175,6 +173,7 @@ sudo apt -y install nvidia-opencl-dev</br>
 sudo apt-get install python3-pip</br>
 sudo -H python3 -m pip install psutil</br>
 sudo -H pip3 install requests</br>
+nvidia-driver-update --force</br>
 
 sudo mkdir CAT</br>
 cd CAT</br>
