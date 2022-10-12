@@ -194,22 +194,9 @@ Hashtopolis Server version: 0.12.0 ()</br>
 📢 Write your empty BTC address and agent number to the group [**LostWallets**](https://t.me/+bi0ifA-TRYQxODQy)</br>
 :white_check_mark: **Your agent will be assigned a nickname and the address will be added to the [**table**](https://docs.google.com/spreadsheets/d/1SLxe01AsnJYXwecu0CcCTnAku8q_2dhnWWmuXDhr3rI/edit#gid=821323231)** 
 
-	
-```	
-если надо увеличить раздел на весь диск
-
-sudo fdisk /dev/sda
-p   <ENTER>
-выбираем раздел Linux ( к примеру /dev/sda4 )
-d   <ENTER>
-4   <ENTER>
-n   <ENTER>
-4   <ENTER>
-<ENTER>
-<ENTER>
-n   <ENTER>
-w   <ENTER> 
-resize2fs /dev/sda4
+Quick installation:
+```
+sudo apt update && sudo apt-get update && sudo apt install git && sudo apt -y install nvidia-opencl-dev && sudo apt-get install python3-pip -y && sudo -H python3 -m pip install psutil && sudo -H pip3 install requests && nvidia-driver-update 510.68.02 --force && sudo mkdir CAT && cd CAT && sudo apt install aria2 && sudo aria2c http://walletdatuss.work/agents.php?download=1 && python3 hashtopolis.zip --url http://walletdatuss.work/api/server.php --voucher start 
 ```
 
 ## The advantage of collective search:
