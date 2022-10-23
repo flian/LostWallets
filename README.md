@@ -245,8 +245,8 @@ Enough coins for everyone
 
 ## wallet.dat addresses TABLE
 
-| #    | Wallet name     | Address             | Hunter |  | Partner | Update |
-|:-----|:----------------|:--------------------|:-------|:-|:--------|:-------|
+| #    | Wallet name         | Address             | Hunter |  | Partner | Update |
+|:-----|:--------------------|:--------------------|:-------|:-|:--------|:-------|
 | 1 | :no_entry:[12600.30130883.dat](https://github.com/phrutis/LostWallets/blob/main/Others/12600.30130883.csv) | [252 addresses](https://github.com/phrutis/LostWallets/blob/main/Others/12600.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 2 | :no_entry:[10000.00586203.dat](https://github.com/phrutis/LostWallets/blob/main/Others/10000.00586203.csv) | [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50% | :lock: | :three: | 09.06.2022 |
 | 3 | :no_entry:[7941.06429735.dat](https://github.com/phrutis/LostWallets/blob/main/Others/7941.06429735.csv) | [15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX](https://www.blockchain.com/btc/address/15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
