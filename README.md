@@ -12,7 +12,7 @@ GPU power can be increased many times based on the search task.</br>
 We don't need your file wallet.dat!
 
 We work on your hash from your file.</br>
-Found password entered remotely on your desktop (AnyDisk)
+Found password entered remotely on your desktop (AnyDesk)
 
 We discuss the commission for restoration individually.</br>
 The commission depends on many factors such as number, iterations, balance, password length, whether there are hints and more.<hr>
