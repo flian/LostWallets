@@ -8,7 +8,8 @@
 
 We can help you recover your wallet.dat password</br>
 Total power of our team = 250x3090</br>
-We don't need your file!
+GPU power can be increased many times based on the search task.</br>
+We don't need your file wallet.dat!
 
 We work on your hash from your file.</br>
 Found password entered remotely on your desktop (AnyDisk)
