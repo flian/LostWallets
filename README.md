@@ -4,7 +4,18 @@
 
 - [**wallet.dat - Password Hints**](https://github.com/phrutis/LostWallets/blob/main/Others/Hints.txt)
 - [**Fake wallet.dat**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
-- [**Frequently asked Questions**](https://github.com/phrutis/LostWallets#frequently-asked-questions)
+- [**Frequently asked Questions**](https://github.com/phrutis/LostWallets#frequently-asked-questions)<hr>
+
+We can help you recover your wallet.dat password</br>
+Total power of our team = 250x3090</br>
+We don't need your file!
+
+We work on your hash from your file.</br>
+Found password entered remotely on your desktop (AnyDisk)
+
+We discuss the commission for restoration individually.</br>
+The commission depends on many factors such as number, iterations, balance, password length, whether there are hints and more.<hr>
+
 
 You can search by [**YOURSELF**](https://github.com/phrutis/LostWallets/blob/main/Others/alonene.md) if you find the password you will get 50%</br>
 Or you can take part in a collective search<hr>
