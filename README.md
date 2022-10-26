@@ -6,6 +6,7 @@
 - [**Fake wallet.dat**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
 - [**Frequently asked Questions**](https://github.com/phrutis/LostWallets#frequently-asked-questions)<hr>
 
+### We can help you recover the password to your file wallet.dat
 
 TOTAL Power GPUs = :two::eight::nine: x :three::zero::nine::zero:</br>
 GPU power can be increased many times based on the search task.</br>
