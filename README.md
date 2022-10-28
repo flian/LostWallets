@@ -254,7 +254,7 @@ Enough coins for everyone
 ♻️ - Suspicious (has duplicate count iterations)</br>
 🚀 - High speed</br>
 🐢 - Slow speed</br>
-:no_entry: - FAKE (recurring mkey)
+:no_entry: - FAKE (recurring ckey)
 
 ## wallet.dat addresses TABLE
 
